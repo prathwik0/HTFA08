@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+gunicorn
+tensorflow
+tensorflow_hub
+numpy
+pillow
