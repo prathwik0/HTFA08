@@ -52,7 +52,7 @@ def index():
                 Y = encode(Y)
 
             checkarr = X.iloc[1, :]
-            for i, value in checkarr.iteritems():
+            for i, value in checkarr.items():
                 if isinstance(value, str):
                     X[i] = X[i].astype("category").cat.codes
 
@@ -76,7 +76,7 @@ def index():
                 Y_synth = encode(Y_synth)
 
             checkarr = X_synth.iloc[1, :]
-            for i, value in checkarr.iteritems():
+            for i, value in checkarr.items():
                 if isinstance(value, str):
                     X_synth[i] = X_synth[i].astype("category").cat.codes
 
