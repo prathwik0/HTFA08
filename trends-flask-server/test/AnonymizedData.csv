@@ -1,0 +1,1001 @@
+Brand,Model,Accel,TopSpeed,Range,Efficiency,FastCharge,RapidCharge,PowerTrain,PlugType,BodyStyle,Segment,Seats,PriceEuro
+Nissan ,Model 3 Long Range Dual Motor,11.9 sec,150 km/h,365 km,222 Wh/km,210 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Cabrio,A,2,29234
+Peugeot ,Air ,8.8 sec,250 km/h,410 km,153 Wh/km,590 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Cabrio,B,6,61480
+MG ,Enyaq iV 50,11.6 sec,200 km/h,230 km,209 Wh/km,920 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Liftback,D,4,58620
+Opel ,MX-30 ,7.9 sec,180 km/h,610 km,173 Wh/km,910 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,N,6,24790
+Volvo ,e-tron Sportback 55 quattro,3.4 sec,145 km/h,255 km,231 Wh/km,350 km/h,Rapid charging possible,All Wheel Drive,Type 2,MPV,S,4,68040
+Skoda ,ID.3 1st,3.4 sec,190 km/h,330 km,154 Wh/km,740 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Station,F,5,125000
+Kia ,ID.3 Pure,5.0 sec,233 km/h,970 km,256 Wh/km,330 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Station,E,5,102990
+Hyundai ,ID.3 Pro Performance,9.0 sec,150 km/h,225 km,219 Wh/km,730 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Sedan,E,7,79990
+Porsche ,XC40 P8 AWD Recharge,3.4 sec,240 km/h,750 km,258 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,N,4,22030
+Fiat ,Taycan 4S Plus,11.9 sec,150 km/h,335 km,211 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Sedan,S,4,81639
+Volkswagen ,e Advance,3.0 sec,157 km/h,380 km,206 Wh/km,620 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,SUV,D,4,149000
+DS ,Enyaq iV 80,12.6 sec,410 km/h,370 km,198 Wh/km,610 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Sedan,N,5,62900
+BMW ,Leaf e+,11.6 sec,157 km/h,255 km,267 Wh/km,290 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,E,7,46380
+Audi ,Mii Electric ,8.5 sec,150 km/h,360 km,188 Wh/km,920 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Cabrio,N,6,93800
+Mercedes ,2,6.5 sec,210 km/h,275 km,188 Wh/km,270 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Pickup,S,7,21421
+Kia ,Enyaq iV 50,6.6 sec,261 km/h,370 km,256 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,D,6,38105
+Ford ,3 Crossback E-Tense,9.8 sec,150 km/h,185 km,261 Wh/km,190 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,B,7,93800
+Lightyear ,Kona Electric 64 kWh,8.1 sec,240 km/h,130 km,177 Wh/km,920 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Pickup,A,7,41526
+Volvo ,M-Byte 95 kWh 4WD,6.6 sec,410 km/h,365 km,181 Wh/km,270 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,B,6,21421
+Kia ,ZS EV,4.6 sec,123 km/h,750 km,188 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,E,5,36057
+Lexus ,Enyaq iV vRS,4.5 sec,241 km/h,290 km,223 Wh/km,-,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Hatchback,N,5,69551
+Nissan ,Ariya e-4ORCE 87kWh,14.0 sec,145 km/h,360 km,211 Wh/km,250 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,C,6,34400
+Kia ,Taycan 4S,6.3 sec,150 km/h,450 km,170 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Station,A,7,33246
+Peugeot ,e-208 ,6.6 sec,217 km/h,190 km,215 Wh/km,350 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,F,7,33000
+Ford ,Mii Electric ,3.8 sec,210 km/h,130 km,209 Wh/km,270 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Liftback,A,5,24534
+Fiat ,Cybertruck Single Motor,9.0 sec,210 km/h,450 km,207 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Liftback,E,7,54000
+Jaguar ,Model 3 Standard Range Plus,7.3 sec,165 km/h,190 km,258 Wh/km,900 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Station,E,5,34900
+Opel ,Zoe ZE50 R135,11.9 sec,200 km/h,515 km,177 Wh/km,770 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,A,7,38000
+Aiways ,Model 3 Long Range Dual Motor,6.8 sec,250 km/h,255 km,160 Wh/km,340 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Cabrio,B,5,29146
+Smart ,Model S Performance,5.9 sec,165 km/h,360 km,193 Wh/km,490 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,S,5,35921
+Porsche ,iX3 ,6.9 sec,410 km/h,410 km,171 Wh/km,270 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Cabrio,D,6,79990
+Ford ,Model X Long Range,2.5 sec,190 km/h,160 km,165 Wh/km,550 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Pickup,F,6,35000
+DS ,e-tron Sportback 50 quattro,2.8 sec,180 km/h,505 km,167 Wh/km,940 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SPV,B,4,24790
+DS ,500e Hatchback,4.7 sec,130 km/h,280 km,167 Wh/km,170 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Sedan,F,4,36837
+Skoda ,Taycan Turbo,8.3 sec,250 km/h,435 km,154 Wh/km,560 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Station,B,6,29234
+Mini ,Cybertruck Single Motor,3.4 sec,200 km/h,160 km,256 Wh/km,380 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,D,6,24565
+Audi ,Twingo ZE,7.3 sec,241 km/h,350 km,156 Wh/km,480 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Liftback,B,7,65620
+Byton ,Kangoo Maxi ZE 33,7.6 sec,135 km/h,185 km,256 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,F,5,38000
+Renault ,iX3 ,7.9 sec,240 km/h,435 km,219 Wh/km,390 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,SUV,E,6,33971
+Renault ,Roadster ,6.6 sec,144 km/h,350 km,194 Wh/km,930 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Pickup,S,2,40936
+Peugeot ,e-tron GT ,8.7 sec,150 km/h,400 km,168 Wh/km,250 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,F,5,33133
+Smart ,Model 3 Standard Range Plus,6.5 sec,123 km/h,185 km,173 Wh/km,920 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SPV,N,5,20129
+Fiat ,e-tron 55 quattro,5.7 sec,190 km/h,410 km,193 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,B,7,34361
+Tesla ,Taycan Turbo,12.3 sec,217 km/h,280 km,228 Wh/km,170 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,E,5,21421
+Volvo ,e-tron S Sportback 55 quattro,6.6 sec,135 km/h,255 km,177 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Station,B,6,68040
+Hyundai ,e-208 ,5.0 sec,123 km/h,380 km,166 Wh/km,480 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,D,4,62000
+Renault ,Air ,6.0 sec,130 km/h,450 km,183 Wh/km,380 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SPV,D,7,34400
+Smart ,e-tron Sportback 55 quattro,5.5 sec,225 km/h,330 km,261 Wh/km,420 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,E,5,64000
+BMW ,Zoe ZE40 R110,3.7 sec,200 km/h,375 km,156 Wh/km,610 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Sedan,B,4,75351
+Mercedes ,Model S Long Range,8.5 sec,145 km/h,440 km,267 Wh/km,730 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Cabrio,S,5,102990
+Audi ,Cybertruck Single Motor,10.0 sec,160 km/h,350 km,194 Wh/km,910 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Sedan,C,6,65000
+Fiat ,Model 3 Standard Range Plus,12.3 sec,145 km/h,435 km,195 Wh/km,770 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,MPV,A,5,20129
+Tesla ,MX-30 ,4.5 sec,157 km/h,230 km,170 Wh/km,460 km/h,Rapid charging possible,All Wheel Drive,Type 2,Sedan,F,6,67358
+Peugeot ,e-Soul 64 kWh,7.5 sec,250 km/h,335 km,209 Wh/km,920 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,E,4,109302
+Aiways ,ID.3 1st,9.6 sec,123 km/h,190 km,188 Wh/km,290 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Station,D,5,75000
+Audi ,Ariya e-4ORCE 63kWh,6.8 sec,260 km/h,425 km,161 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,B,2,34361
+Ford ,Mustang Mach-E SR AWD,11.4 sec,180 km/h,170 km,164 Wh/km,380 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SPV,E,5,60437
+MG ,ID.3 Pro,4.5 sec,160 km/h,360 km,216 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Pickup,C,5,41906
+Audi ,Enyaq iV 50,11.6 sec,155 km/h,460 km,104 Wh/km,270 km/h,Rapid charging not possible,All Wheel Drive,Type 2,SUV,E,7,33133
+Renault ,Model S Long Range,7.6 sec,260 km/h,390 km,154 Wh/km,210 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,D,5,54475
+Opel ,ID.3 Pro Performance,6.3 sec,250 km/h,250 km,200 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Station,A,7,37237
+Tesla ,Cybertruck Dual Motor,6.3 sec,150 km/h,360 km,153 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,S,5,45000
+Kia ,e-tron S 55 quattro,4.6 sec,140 km/h,225 km,244 Wh/km,560 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SPV,D,7,79445
+Byton ,el-Born ,5.5 sec,160 km/h,250 km,178 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,S,6,64000
+Jaguar ,One ,6.6 sec,190 km/h,220 km,188 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Station,S,5,34361
+Renault ,Mustang Mach-E ER RWD,7.6 sec,200 km/h,370 km,219 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,D,2,29146
+Nissan ,Model 3 Long Range Dual Motor,3.8 sec,210 km/h,440 km,175 Wh/km,270 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,SUV,C,6,75351
+Peugeot ,Model Y Long Range Dual Motor,12.6 sec,165 km/h,195 km,256 Wh/km,-,Rapid charging possible,All Wheel Drive,Type 2,Pickup,F,7,40000
+Honda ,Ariya e-4ORCE 87kWh,11.9 sec,135 km/h,390 km,217 Wh/km,210 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Liftback,E,4,79990
+Smart ,Taycan Turbo S,11.4 sec,157 km/h,255 km,258 Wh/km,770 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,MPV,N,7,38987
+BMW ,i4 ,4.9 sec,167 km/h,180 km,198 Wh/km,850 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,C,7,33246
+Lucid ,e-C4 ,9.7 sec,200 km/h,350 km,188 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Pickup,B,2,35000
+BMW ,Roadster ,12.6 sec,180 km/h,450 km,237 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,F,6,79445
+CUPRA ,Ariya e-4ORCE 87kWh,12.6 sec,190 km/h,365 km,222 Wh/km,920 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Pickup,C,6,85990
+Opel ,500e Hatchback,6.2 sec,200 km/h,970 km,183 Wh/km,250 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Pickup,C,4,50000
+SEAT ,Ampera-e ,14.0 sec,140 km/h,235 km,168 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,D,7,35000
+MG ,Cybertruck Dual Motor,6.5 sec,130 km/h,515 km,153 Wh/km,250 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,C,2,37500
+Mini ,Kona Electric 64 kWh,5.6 sec,190 km/h,220 km,215 Wh/km,620 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Sedan,A,7,54000
+Mercedes ,e-Up! ,11.6 sec,144 km/h,160 km,270 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2,MPV,F,6,24534
+Lightyear ,Taycan 4S Plus,9.0 sec,180 km/h,310 km,177 Wh/km,190 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Sedan,E,4,32646
+Opel ,iX3 ,7.0 sec,250 km/h,310 km,104 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,F,4,41526
+Mercedes ,Enyaq iV 80X,6.3 sec,261 km/h,170 km,219 Wh/km,220 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Cabrio,S,6,75351
+Nissan ,ID.3 Pro,8.8 sec,225 km/h,360 km,200 Wh/km,610 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,MPV,S,6,30000
+Mini ,e-NV200 Evalia ,9.6 sec,190 km/h,195 km,195 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SPV,C,4,32997
+Mini ,ID.3 Pure,3.4 sec,210 km/h,350 km,171 Wh/km,420 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,A,7,55480
+Lightyear ,MX-30 ,9.0 sec,123 km/h,360 km,184 Wh/km,910 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,C,2,45000
+Aiways ,Kona Electric 64 kWh,7.5 sec,130 km/h,335 km,258 Wh/km,490 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,S,5,54000
+Tesla ,e-2008 SUV ,22.4 sec,200 km/h,315 km,188 Wh/km,910 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,4,79990
+CUPRA ,M-Byte 95 kWh 4WD,6.2 sec,123 km/h,440 km,193 Wh/km,470 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,A,6,67358
+Sono ,Ariya e-4ORCE 63kWh,11.6 sec,150 km/h,130 km,165 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,A,5,35000
+Lucid ,One ,4.0 sec,165 km/h,275 km,219 Wh/km,320 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Liftback,A,2,36837
+DS ,IONIQ Electric,8.7 sec,250 km/h,195 km,219 Wh/km,540 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Pickup,E,5,41906
+MG ,Model Y Long Range Dual Motor,6.5 sec,250 km/h,280 km,231 Wh/km,420 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SUV,E,4,149000
+Ford ,e-2008 SUV ,8.3 sec,167 km/h,250 km,191 Wh/km,320 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,D,5,21387
+Kia ,XC40 P8 AWD Recharge,3.0 sec,155 km/h,360 km,161 Wh/km,240 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Pickup,N,4,38017
+Peugeot ,XC40 P8 AWD Recharge,9.0 sec,150 km/h,320 km,222 Wh/km,930 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,N,7,69484
+Skoda ,I-Pace ,10.0 sec,250 km/h,315 km,178 Wh/km,390 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,SUV,N,4,180781
+Nissan ,Cybertruck Dual Motor,2.8 sec,123 km/h,450 km,168 Wh/km,270 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,N,5,75351
+Peugeot ,Zoe ZE50 R110,9.5 sec,157 km/h,230 km,166 Wh/km,320 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,C,5,33971
+Peugeot ,EQV 300 Long,6.2 sec,167 km/h,100 km,165 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,E,4,34900
+Byton ,EQ forfour ,4.8 sec,240 km/h,390 km,172 Wh/km,520 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Pickup,D,7,30000
+Fiat ,e-Niro 39 kWh,4.9 sec,241 km/h,430 km,176 Wh/km,270 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Liftback,F,6,35000
+Opel ,Ariya e-4ORCE 63kWh,11.9 sec,240 km/h,350 km,176 Wh/km,390 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Sedan,A,7,109302
+BMW ,e-Soul 64 kWh,2.5 sec,260 km/h,310 km,270 Wh/km,500 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Sedan,F,6,31900
+Honda ,M-Byte 95 kWh 4WD,4.5 sec,250 km/h,225 km,191 Wh/km,490 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,MPV,N,5,55480
+Peugeot ,e-Niro 39 kWh,4.0 sec,190 km/h,180 km,232 Wh/km,740 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Cabrio,D,2,41526
+Polestar ,Zoe ZE50 R110,9.5 sec,130 km/h,420 km,166 Wh/km,260 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Station,C,4,29146
+Citroen ,EQA ,10.0 sec,157 km/h,435 km,211 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Cabrio,N,4,180781
+Aiways ,Model S Performance,4.8 sec,150 km/h,460 km,222 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Cabrio,E,6,70631
+Lightyear ,Cybertruck Dual Motor,3.4 sec,160 km/h,185 km,222 Wh/km,410 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Sedan,E,5,37237
+Mazda ,e-tron S 55 quattro,4.9 sec,233 km/h,425 km,193 Wh/km,520 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Sedan,N,7,33000
+Volkswagen ,EQ forfour ,3.8 sec,123 km/h,185 km,183 Wh/km,920 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,C,2,93800
+Aiways ,e-2008 SUV ,4.7 sec,210 km/h,230 km,207 Wh/km,340 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,SUV,N,2,29682
+Audi ,EQV 300 Long,4.6 sec,167 km/h,420 km,166 Wh/km,620 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Cabrio,N,6,58620
+BMW ,Ariya e-4ORCE 63kWh,8.8 sec,150 km/h,270 km,193 Wh/km,730 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,A,5,34361
+Ford ,IONIQ Electric,4.9 sec,261 km/h,505 km,197 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,B,7,33133
+Kia ,e-tron 50 quattro,4.5 sec,150 km/h,180 km,219 Wh/km,380 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,S,4,109302
+Lucid ,e-Niro 39 kWh,5.6 sec,200 km/h,750 km,219 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,C,5,46900
+Tesla ,ID.3 Pro,6.8 sec,250 km/h,515 km,273 Wh/km,850 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,N,2,46380
+Jaguar ,EQV 300 Long,5.0 sec,410 km/h,340 km,166 Wh/km,230 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,N,2,81639
+Mercedes ,e-tron 50 quattro,2.8 sec,155 km/h,225 km,176 Wh/km,340 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Liftback,D,2,58620
+Ford ,Ariya e-4ORCE 63kWh,7.3 sec,155 km/h,275 km,179 Wh/km,510 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,D,2,55000
+Peugeot ,i3s 120 Ah,4.6 sec,190 km/h,295 km,168 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2,Sedan,B,5,38000
+Nissan ,Enyaq iV 50,8.3 sec,165 km/h,425 km,216 Wh/km,260 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,F,7,93800
+Mercedes ,Cooper SE ,3.2 sec,217 km/h,370 km,104 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,MPV,N,4,46380
+CUPRA ,Cybertruck Tri Motor,2.5 sec,241 km/h,180 km,175 Wh/km,710 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,B,5,35921
+Citroen ,Taycan Turbo,8.1 sec,160 km/h,250 km,177 Wh/km,340 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Sedan,S,5,54475
+Tesla ,Corsa-e ,3.4 sec,155 km/h,970 km,256 Wh/km,710 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Sedan,N,5,93800
+Opel ,e-tron GT ,5.6 sec,167 km/h,320 km,181 Wh/km,540 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,D,5,41526
+Kia ,e-C4 ,11.9 sec,250 km/h,610 km,154 Wh/km,920 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Liftback,E,4,150000
+Aiways ,XC40 P8 AWD Recharge,6.0 sec,250 km/h,190 km,223 Wh/km,560 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,B,2,50000
+Audi ,Zoe ZE50 R135,9.6 sec,150 km/h,255 km,238 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Sedan,F,4,31900
+Renault ,Taycan Cross Turismo ,12.6 sec,200 km/h,275 km,175 Wh/km,260 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Sedan,A,5,150000
+Hyundai ,Leaf e+,8.3 sec,150 km/h,420 km,168 Wh/km,270 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SPV,B,6,36837
+SEAT ,500e Hatchback,5.6 sec,135 km/h,325 km,154 Wh/km,450 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,B,2,96990
+Opel ,MX-30 ,8.5 sec,180 km/h,320 km,183 Wh/km,560 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,SPV,F,4,54475
+Mini ,500e Convertible,2.5 sec,167 km/h,365 km,222 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2,Sedan,B,5,41526
+Audi ,Enyaq iV 80X,7.0 sec,210 km/h,290 km,154 Wh/km,230 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,B,5,93800
+Sono ,Roadster ,5.1 sec,225 km/h,370 km,222 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2,SPV,N,7,68040
+Mini ,ID.3 Pro Performance,7.6 sec,250 km/h,310 km,173 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,46380
+Tesla ,e-tron S Sportback 55 quattro,4.8 sec,150 km/h,460 km,181 Wh/km,380 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Sedan,C,7,54000
+Volkswagen ,EQC 400 4MATIC,6.3 sec,123 km/h,350 km,188 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,F,4,34900
+Skoda ,Mii Electric ,6.8 sec,135 km/h,575 km,193 Wh/km,190 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Station,N,4,50000
+BMW ,Ariya 63kWh,9.9 sec,250 km/h,255 km,217 Wh/km,650 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Pickup,E,7,37900
+CUPRA ,e-tron S Sportback 55 quattro,3.8 sec,260 km/h,420 km,104 Wh/km,170 km/h,Rapid charging possible,All Wheel Drive,Type 2,Station,C,2,61480
+Fiat ,Twingo ZE,9.9 sec,190 km/h,390 km,104 Wh/km,910 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,A,6,36837
+Hyundai ,IONIQ Electric,9.5 sec,233 km/h,325 km,178 Wh/km,590 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Liftback,D,4,50000
+Porsche ,500e Convertible,8.5 sec,157 km/h,450 km,198 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,F,2,102990
+Nissan ,I-Pace ,5.6 sec,165 km/h,95 km,161 Wh/km,770 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Pickup,F,7,25500
+Mini ,Model 3 Long Range Dual Motor,7.6 sec,144 km/h,270 km,197 Wh/km,330 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Liftback,N,4,38987
+Mercedes ,UX 300e,8.1 sec,190 km/h,295 km,178 Wh/km,260 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,2,46380
+Mini ,Model X Long Range,12.3 sec,145 km/h,430 km,173 Wh/km,560 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Cabrio,S,2,32997
+SEAT ,i3s 120 Ah,7.0 sec,130 km/h,440 km,211 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Liftback,N,2,37422
+Fiat ,EQV 300 Long,11.6 sec,250 km/h,180 km,244 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Cabrio,B,4,22030
+CUPRA ,ID.3 Pro,5.7 sec,240 km/h,400 km,228 Wh/km,560 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Pickup,D,5,37237
+Honda ,IONIQ Electric,5.7 sec,200 km/h,255 km,181 Wh/km,810 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,N,7,105000
+Byton ,Kangoo Maxi ZE 33,3.0 sec,180 km/h,230 km,198 Wh/km,930 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Hatchback,N,2,32646
+CUPRA ,Cooper SE ,9.7 sec,165 km/h,275 km,191 Wh/km,260 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Pickup,N,7,50000
+Mercedes ,XC40 P8 AWD Recharge,6.6 sec,155 km/h,255 km,256 Wh/km,940 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Liftback,C,4,65000
+SEAT ,e-tron 55 quattro,7.6 sec,180 km/h,575 km,223 Wh/km,810 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Cabrio,D,6,35000
+Tesla ,Kona Electric 64 kWh,6.5 sec,150 km/h,225 km,170 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,A,6,109302
+Mini ,CITIGOe iV ,6.3 sec,150 km/h,440 km,231 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,A,2,109302
+Polestar ,e-Niro 39 kWh,3.0 sec,217 km/h,340 km,175 Wh/km,330 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,S,7,35000
+Byton ,Ariya e-4ORCE 63kWh,5.6 sec,410 km/h,160 km,180 Wh/km,320 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Liftback,D,7,36057
+Nissan ,ID.3 1st,7.5 sec,233 km/h,170 km,191 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2,Cabrio,E,4,79445
+Volvo ,2,3.5 sec,240 km/h,195 km,183 Wh/km,420 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Sedan,F,5,85990
+Porsche ,el-Born ,3.4 sec,140 km/h,160 km,207 Wh/km,920 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Cabrio,F,5,62000
+Audi ,e-tron GT ,6.0 sec,260 km/h,335 km,206 Wh/km,910 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,C,2,81639
+Opel ,i4 ,9.6 sec,157 km/h,250 km,256 Wh/km,450 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Sedan,A,2,61480
+Nissan ,Model S Performance,11.4 sec,144 km/h,400 km,181 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,S,4,60437
+Sono ,2,4.7 sec,260 km/h,190 km,188 Wh/km,590 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Cabrio,S,7,148301
+DS ,EQC 400 4MATIC,3.5 sec,167 km/h,350 km,216 Wh/km,390 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,S,4,180781
+Audi ,Taycan 4S Plus,3.7 sec,240 km/h,410 km,193 Wh/km,260 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Cabrio,E,4,50000
+Hyundai ,ID.4 ,8.1 sec,135 km/h,275 km,211 Wh/km,540 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Station,S,6,65000
+BMW ,i3s 120 Ah,9.5 sec,233 km/h,320 km,270 Wh/km,460 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Sedan,B,4,36057
+Nissan ,Mokka-e ,12.6 sec,167 km/h,95 km,191 Wh/km,340 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,B,5,38017
+Kia ,Mokka-e ,11.9 sec,157 km/h,430 km,219 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Cabrio,C,6,64000
+Opel ,Enyaq iV 60,7.5 sec,140 km/h,170 km,175 Wh/km,430 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Pickup,N,4,150000
+Lightyear ,Ariya 87kWh,2.5 sec,233 km/h,295 km,153 Wh/km,520 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,MPV,D,4,54000
+Renault ,Enyaq iV vRS,4.8 sec,200 km/h,425 km,167 Wh/km,500 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Sedan,N,5,81639
+Aiways ,Taycan Turbo S,2.1 sec,167 km/h,440 km,177 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Station,C,6,125000
+Honda ,Kona Electric 64 kWh,6.6 sec,155 km/h,460 km,270 Wh/km,230 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Sedan,F,5,29682
+Byton ,e-208 ,8.1 sec,160 km/h,275 km,170 Wh/km,170 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Pickup,S,5,38017
+Ford ,U5 ,3.2 sec,217 km/h,250 km,156 Wh/km,730 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,S,5,215000
+Mercedes ,Mokka-e ,8.7 sec,145 km/h,290 km,261 Wh/km,940 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Liftback,B,5,50000
+Audi ,Enyaq iV 80X,10.0 sec,190 km/h,370 km,195 Wh/km,850 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Station,F,2,62000
+Aiways ,e-208 ,6.6 sec,157 km/h,290 km,193 Wh/km,340 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,A,7,34900
+Lightyear ,Ariya e-4ORCE 63kWh,8.1 sec,250 km/h,310 km,223 Wh/km,610 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Sedan,A,7,34400
+Aiways ,e-Soul 64 kWh,7.5 sec,250 km/h,320 km,166 Wh/km,230 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Pickup,E,7,36837
+Honda ,Model S Performance,12.3 sec,167 km/h,425 km,258 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Hatchback,F,2,34900
+DS ,e-Golf ,6.6 sec,167 km/h,170 km,237 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,E,6,21421
+BMW ,Enyaq iV 80,8.5 sec,160 km/h,100 km,167 Wh/km,220 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,S,7,36837
+Lightyear ,Roadster ,8.1 sec,233 km/h,460 km,209 Wh/km,450 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Pickup,E,2,65620
+Mercedes ,M-Byte 72 kWh 2WD,7.5 sec,140 km/h,610 km,170 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2,SPV,B,6,40936
+Jaguar ,Mustang Mach-E SR AWD,6.0 sec,200 km/h,750 km,156 Wh/km,710 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Sedan,D,7,36837
+Lexus ,Ariya 87kWh,3.2 sec,261 km/h,375 km,215 Wh/km,900 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,E,7,46380
+Renault ,EQC 400 4MATIC,6.9 sec,165 km/h,505 km,104 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,B,4,34400
+Citroen ,Enyaq iV 80X,7.0 sec,180 km/h,575 km,216 Wh/km,330 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,SUV,C,4,125000
+Sono ,Zoe ZE40 R110,3.7 sec,260 km/h,515 km,153 Wh/km,320 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,B,5,25500
+Byton ,ID.3 1st,9.6 sec,240 km/h,190 km,191 Wh/km,250 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Liftback,C,4,105000
+Kia ,Mokka-e ,10.0 sec,200 km/h,435 km,258 Wh/km,-,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Pickup,E,4,31900
+Hyundai ,Enyaq iV 50,9.6 sec,410 km/h,180 km,209 Wh/km,-,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Liftback,E,5,79990
+Honda ,Q4 e-tron ,9.6 sec,217 km/h,275 km,188 Wh/km,270 km/h,Rapid charging not possible,All Wheel Drive,Type 2,SPV,A,2,85990
+Honda ,e-tron S 55 quattro,11.9 sec,144 km/h,425 km,168 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Sedan,B,7,69484
+Tesla ,i3s 120 Ah,5.6 sec,200 km/h,195 km,170 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,B,5,24790
+Volvo ,e-tron Sportback 50 quattro,4.7 sec,410 km/h,170 km,200 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SUV,N,5,31184
+Fiat ,MX-30 ,6.0 sec,135 km/h,275 km,228 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Liftback,F,5,54475
+Renault ,Model 3 Long Range Performance,4.5 sec,250 km/h,130 km,200 Wh/km,360 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Liftback,E,4,45000
+Tesla ,500e Convertible,7.8 sec,261 km/h,195 km,200 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,C,7,96990
+Volkswagen ,EQ forfour ,3.2 sec,160 km/h,170 km,173 Wh/km,340 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Liftback,E,2,64000
+Porsche ,Enyaq iV 80X,9.5 sec,241 km/h,130 km,171 Wh/km,330 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,SPV,N,5,21387
+Mini ,Ariya e-4ORCE 63kWh,6.8 sec,180 km/h,310 km,258 Wh/km,-,Rapid charging possible,Rear Wheel Drive,Type 2,Hatchback,N,2,34900
+DS ,i4 ,7.0 sec,130 km/h,270 km,173 Wh/km,320 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,C,4,38000
+Audi ,ID.3 Pro S,9.6 sec,135 km/h,255 km,104 Wh/km,900 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,SUV,E,4,38000
+Citroen ,500e Hatchback,5.7 sec,225 km/h,95 km,206 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,MPV,E,4,41906
+Sono ,Model Y Long Range Performance,2.5 sec,180 km/h,235 km,231 Wh/km,220 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,C,4,33971
+Hyundai ,Cybertruck Single Motor,8.5 sec,123 km/h,460 km,156 Wh/km,440 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Station,S,5,34361
+Nissan ,Enyaq iV 50,12.7 sec,150 km/h,220 km,273 Wh/km,740 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,N,4,33246
+SEAT ,Sion ,8.5 sec,210 km/h,365 km,188 Wh/km,500 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Pickup,F,6,41526
+MG ,Model Y Long Range Dual Motor,4.8 sec,180 km/h,400 km,171 Wh/km,330 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,D,2,57500
+Tesla ,One ,5.1 sec,225 km/h,325 km,188 Wh/km,770 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,SUV,N,6,31900
+Volvo ,ID.3 Pro Performance,11.4 sec,250 km/h,385 km,261 Wh/km,410 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,B,2,29682
+Renault ,Mustang Mach-E SR AWD,5.0 sec,180 km/h,180 km,183 Wh/km,540 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,SUV,B,6,32997
+Mercedes ,EQ fortwo coupe,5.6 sec,160 km/h,230 km,183 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,D,6,69551
+Hyundai ,Model Y Long Range Performance,4.6 sec,130 km/h,250 km,195 Wh/km,610 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,F,7,69484
+Renault ,Zoe ZE50 R110,2.5 sec,140 km/h,365 km,179 Wh/km,430 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,D,5,79990
+Sono ,Model S Performance,7.3 sec,150 km/h,365 km,232 Wh/km,480 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Station,N,7,24565
+CUPRA ,i3 120 Ah,6.6 sec,135 km/h,325 km,171 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Station,F,6,20129
+Mazda ,ID.3 Pro Performance,11.9 sec,410 km/h,170 km,156 Wh/km,460 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Hatchback,S,5,56440
+Renault ,Taycan Turbo,9.7 sec,145 km/h,185 km,179 Wh/km,650 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Cabrio,A,7,29146
+Nissan ,e-Niro 64 kWh,3.0 sec,190 km/h,450 km,178 Wh/km,930 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Liftback,F,4,41906
+Sono ,Model S Performance,5.0 sec,157 km/h,505 km,195 Wh/km,620 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Hatchback,E,2,125000
+Audi ,e-NV200 Evalia ,9.5 sec,410 km/h,610 km,173 Wh/km,510 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Hatchback,S,6,54475
+Lexus ,EQV 300 Long,6.5 sec,210 km/h,235 km,209 Wh/km,-,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Sedan,C,7,32646
+Skoda ,CITIGOe iV ,3.4 sec,241 km/h,460 km,183 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Liftback,S,7,47500
+Smart ,Mii Electric ,8.3 sec,150 km/h,275 km,167 Wh/km,220 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,N,7,148301
+Volkswagen ,Air ,3.7 sec,165 km/h,450 km,184 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,7,93800
+Kia ,Mii Electric ,10.0 sec,155 km/h,350 km,195 Wh/km,460 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Station,E,6,36057
+Citroen ,Ariya 87kWh,5.7 sec,200 km/h,350 km,211 Wh/km,730 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,F,2,215000
+Volkswagen ,Model X Long Range,6.9 sec,155 km/h,325 km,219 Wh/km,260 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,5,85990
+Fiat ,e-Up! ,6.9 sec,410 km/h,160 km,211 Wh/km,170 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,S,7,68040
+SEAT ,ID.3 Pro,4.6 sec,260 km/h,255 km,256 Wh/km,650 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,B,4,96990
+Volkswagen ,M-Byte 72 kWh 2WD,6.0 sec,180 km/h,370 km,181 Wh/km,620 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Sedan,D,4,47500
+MG ,EQA ,7.9 sec,150 km/h,325 km,244 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,D,6,148301
+Peugeot ,2,7.6 sec,233 km/h,320 km,166 Wh/km,520 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,N,4,36837
+Nissan ,Sion ,4.9 sec,261 km/h,275 km,154 Wh/km,260 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SPV,B,7,55480
+Mini ,Model Y Long Range Performance,4.0 sec,210 km/h,435 km,178 Wh/km,260 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,D,2,24790
+Hyundai ,Cybertruck Single Motor,6.9 sec,123 km/h,250 km,256 Wh/km,710 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,A,6,96990
+Jaguar ,EQA ,14.0 sec,250 km/h,390 km,160 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SPV,C,2,41906
+Mini ,Enyaq iV 50,5.1 sec,144 km/h,610 km,256 Wh/km,360 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,A,4,54000
+Audi ,Model X Long Range,4.5 sec,150 km/h,335 km,188 Wh/km,850 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,SUV,N,6,21387
+Aiways ,e-tron Sportback 55 quattro,3.8 sec,155 km/h,290 km,156 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,MPV,B,2,60437
+Mazda ,EQ forfour ,3.2 sec,217 km/h,225 km,184 Wh/km,650 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Hatchback,F,4,75000
+Lucid ,Enyaq iV 80,22.4 sec,155 km/h,420 km,161 Wh/km,770 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,MPV,N,6,65000
+Lightyear ,Air ,7.8 sec,410 km/h,95 km,215 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Sedan,F,4,69551
+Peugeot ,Enyaq iV vRS,4.8 sec,155 km/h,320 km,166 Wh/km,340 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Cabrio,B,6,57500
+Mini ,Taycan 4S Plus,4.6 sec,130 km/h,270 km,270 Wh/km,910 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Station,E,5,93800
+Lightyear ,Enyaq iV 80,14.0 sec,130 km/h,170 km,200 Wh/km,240 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Sedan,F,4,21421
+Mercedes ,Enyaq iV 50,9.6 sec,144 km/h,400 km,168 Wh/km,230 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,B,5,102990
+Renault ,e-tron S Sportback 55 quattro,4.5 sec,260 km/h,610 km,216 Wh/km,480 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,F,6,30000
+Ford ,Taycan 4S Plus,5.6 sec,165 km/h,255 km,188 Wh/km,240 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,S,4,50000
+Sono ,Taycan Cross Turismo ,7.9 sec,261 km/h,435 km,211 Wh/km,570 km/h,Rapid charging not possible,All Wheel Drive,Type 2,SUV,E,7,40795
+Smart ,Enyaq iV 80,5.9 sec,241 km/h,380 km,216 Wh/km,730 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Sedan,N,5,85990
+Nissan ,Model 3 Long Range Performance,6.9 sec,155 km/h,750 km,195 Wh/km,770 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,D,6,69551
+CUPRA ,Cybertruck Tri Motor,6.3 sec,157 km/h,385 km,195 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,C,6,47500
+Peugeot ,3 Crossback E-Tense,12.6 sec,135 km/h,255 km,197 Wh/km,550 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,N,5,22030
+Ford ,Model X Long Range,7.5 sec,210 km/h,575 km,194 Wh/km,510 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Pickup,E,4,180781
+BMW ,U5 ,2.8 sec,123 km/h,130 km,256 Wh/km,650 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,SPV,B,6,29682
+Skoda ,Leaf e+,9.7 sec,261 km/h,360 km,256 Wh/km,320 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Station,E,6,21421
+BMW ,Q4 Sportback e-tron ,4.5 sec,200 km/h,310 km,198 Wh/km,900 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,E,5,56440
+Jaguar ,Enyaq iV 60,8.3 sec,144 km/h,250 km,222 Wh/km,710 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,E,4,24534
+Smart ,Zoe ZE50 R110,9.8 sec,165 km/h,515 km,156 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Pickup,C,4,65000
+Porsche ,Leaf ,7.0 sec,260 km/h,185 km,200 Wh/km,470 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,SPV,C,4,41906
+Kia ,e-tron 50 quattro,6.6 sec,165 km/h,235 km,168 Wh/km,930 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,F,6,79445
+Porsche ,el-Born ,8.3 sec,135 km/h,280 km,256 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Hatchback,E,6,60437
+Kia ,ID.3 Pro,9.0 sec,150 km/h,380 km,173 Wh/km,240 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,C,5,37900
+Audi ,EQ forfour ,4.9 sec,157 km/h,350 km,238 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,F,7,34459
+Hyundai ,Ampera-e ,3.4 sec,135 km/h,170 km,256 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,B,5,30000
+SEAT ,e-Soul 64 kWh,12.3 sec,233 km/h,330 km,216 Wh/km,450 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,B,7,69551
+Nissan ,Enyaq iV 80X,4.5 sec,200 km/h,235 km,166 Wh/km,330 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Sedan,S,7,53500
+DS ,CITIGOe iV ,3.2 sec,261 km/h,410 km,195 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,S,7,125000
+Peugeot ,Taycan Turbo,10.0 sec,250 km/h,575 km,153 Wh/km,250 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,F,7,38017
+Jaguar ,Sion ,5.6 sec,233 km/h,290 km,172 Wh/km,650 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,C,4,109302
+Nissan ,Enyaq iV 50,3.0 sec,135 km/h,95 km,211 Wh/km,740 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,N,6,33133
+Nissan ,Model 3 Long Range Performance,4.0 sec,240 km/h,385 km,188 Wh/km,170 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,A,2,69551
+Citroen ,Model Y Long Range Performance,4.9 sec,144 km/h,390 km,219 Wh/km,-,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,E,7,62000
+Fiat ,Kona Electric 39 kWh,9.6 sec,180 km/h,360 km,273 Wh/km,350 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Sedan,E,2,75351
+BMW ,500e Convertible,7.3 sec,261 km/h,385 km,184 Wh/km,900 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Pickup,C,6,61480
+Tesla ,Ampera-e ,9.6 sec,150 km/h,340 km,267 Wh/km,250 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,F,4,62000
+BMW ,Model 3 Standard Range Plus,10.0 sec,240 km/h,195 km,231 Wh/km,890 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,C,4,37500
+Porsche ,el-Born ,22.4 sec,250 km/h,295 km,170 Wh/km,-,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,B,4,148301
+Mini ,Mokka-e ,8.1 sec,160 km/h,195 km,219 Wh/km,210 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Sedan,B,2,105000
+Honda ,Taycan Turbo S,8.8 sec,157 km/h,365 km,188 Wh/km,420 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,F,5,53500
+Audi ,Taycan 4S,4.6 sec,180 km/h,360 km,171 Wh/km,900 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,E,5,45000
+Lexus ,EQA ,7.9 sec,167 km/h,180 km,170 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,S,5,79990
+Lightyear ,ID.3 Pro,3.5 sec,140 km/h,380 km,244 Wh/km,350 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Station,E,7,24534
+Lightyear ,ID.3 Pro Performance,9.8 sec,123 km/h,425 km,215 Wh/km,900 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Cabrio,A,4,20129
+Kia ,M-Byte 72 kWh 2WD,7.5 sec,210 km/h,315 km,173 Wh/km,900 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,N,2,102990
+Hyundai ,EQV 300 Long,4.9 sec,261 km/h,575 km,184 Wh/km,560 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Liftback,E,4,69551
+Volvo ,IONIQ Electric,6.0 sec,160 km/h,230 km,256 Wh/km,930 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Cabrio,N,5,38000
+Hyundai ,EQ fortwo coupe,9.5 sec,225 km/h,330 km,191 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,E,7,41526
+Opel ,ID.3 Pro,3.2 sec,410 km/h,460 km,217 Wh/km,320 km/h,Rapid charging possible,Front Wheel Drive,Type 2,MPV,S,5,29146
+Honda ,ZS EV,8.5 sec,225 km/h,250 km,244 Wh/km,890 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,SPV,A,7,45000
+Sono ,Mii Electric ,4.6 sec,410 km/h,360 km,207 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Liftback,C,5,102990
+Polestar ,Twingo ZE,2.8 sec,233 km/h,170 km,256 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,S,4,75351
+Lucid ,Ariya 63kWh,9.9 sec,250 km/h,310 km,160 Wh/km,190 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,MPV,N,4,96050
+Volkswagen ,3 Crossback E-Tense,8.3 sec,165 km/h,330 km,219 Wh/km,330 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,E,5,20129
+Mazda ,i3 120 Ah,4.5 sec,165 km/h,160 km,165 Wh/km,350 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Cabrio,E,4,37500
+Sono ,EQV 300 Long,9.0 sec,180 km/h,440 km,270 Wh/km,410 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,S,4,21421
+Skoda ,e-Soul 39 kWh,3.4 sec,145 km/h,270 km,256 Wh/km,-,Rapid charging possible,Rear Wheel Drive,Type 2,Hatchback,A,6,67358
+CUPRA ,3 Crossback E-Tense,8.5 sec,157 km/h,170 km,183 Wh/km,520 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,N,5,79990
+BMW ,e-Golf ,6.2 sec,135 km/h,425 km,273 Wh/km,190 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,E,4,96050
+SEAT ,500e Hatchback,6.0 sec,145 km/h,420 km,270 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Pickup,D,5,69484
+MG ,Zoe ZE50 R110,4.6 sec,167 km/h,970 km,222 Wh/km,620 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Hatchback,E,5,35921
+Jaguar ,500e Convertible,5.6 sec,260 km/h,325 km,188 Wh/km,570 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,2,33000
+Byton ,Enyaq iV 80,6.0 sec,157 km/h,255 km,232 Wh/km,350 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Station,C,4,37237
+Porsche ,Taycan Cross Turismo ,6.0 sec,180 km/h,315 km,209 Wh/km,910 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Pickup,E,7,34400
+Opel ,e-tron S Sportback 55 quattro,6.6 sec,167 km/h,225 km,273 Wh/km,570 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,N,5,102990
+Jaguar ,Leaf e+,4.5 sec,123 km/h,610 km,164 Wh/km,350 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,B,5,50000
+Peugeot ,Cybertruck Dual Motor,6.3 sec,200 km/h,270 km,197 Wh/km,440 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SPV,N,2,25500
+Polestar ,Ariya e-4ORCE 87kWh,12.3 sec,261 km/h,170 km,198 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,N,4,38105
+Renault ,Mii Electric ,8.1 sec,200 km/h,310 km,179 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Hatchback,S,5,79445
+Porsche ,e-Soul 64 kWh,7.0 sec,200 km/h,515 km,170 Wh/km,340 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,A,7,79990
+Jaguar ,EQA ,12.7 sec,217 km/h,275 km,209 Wh/km,620 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,C,6,20129
+Nissan ,Taycan Turbo S,4.8 sec,250 km/h,340 km,231 Wh/km,500 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Liftback,C,6,45000
+Skoda ,EQ fortwo cabrio,12.3 sec,155 km/h,320 km,188 Wh/km,500 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SPV,C,5,150000
+Opel ,e-tron Sportback 55 quattro,12.7 sec,200 km/h,250 km,258 Wh/km,740 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,N,5,69484
+DS ,U5 ,7.9 sec,130 km/h,575 km,170 Wh/km,290 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Hatchback,E,2,37500
+Opel ,el-Born ,9.0 sec,123 km/h,180 km,198 Wh/km,230 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,F,6,41526
+Byton ,Kona Electric 64 kWh,11.9 sec,123 km/h,255 km,166 Wh/km,770 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,B,2,20129
+Polestar ,ID.3 Pro S,6.0 sec,167 km/h,435 km,194 Wh/km,240 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Liftback,B,5,57500
+Smart ,Enyaq iV 80X,7.5 sec,130 km/h,235 km,200 Wh/km,190 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,F,5,62000
+Volkswagen ,3 Crossback E-Tense,4.8 sec,144 km/h,390 km,209 Wh/km,570 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SPV,D,4,24790
+Skoda ,UX 300e,9.5 sec,260 km/h,425 km,207 Wh/km,730 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Cabrio,N,2,58620
+Volvo ,U5 ,7.3 sec,200 km/h,185 km,153 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,E,2,79990
+Smart ,500e Hatchback,7.3 sec,167 km/h,350 km,197 Wh/km,770 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,SUV,B,6,36837
+Honda ,e-208 ,12.3 sec,160 km/h,440 km,161 Wh/km,920 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Cabrio,F,6,33246
+Sono ,ZS EV,8.3 sec,140 km/h,390 km,175 Wh/km,330 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SPV,S,4,30000
+Mini ,e-Up! ,4.9 sec,200 km/h,325 km,175 Wh/km,450 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,SUV,B,7,32646
+Citroen ,Q4 e-tron ,14.0 sec,240 km/h,390 km,166 Wh/km,350 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Sedan,E,6,55000
+Mazda ,i3s 120 Ah,9.7 sec,180 km/h,310 km,209 Wh/km,930 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Station,F,5,81639
+Jaguar ,Leaf ,3.0 sec,410 km/h,505 km,176 Wh/km,-,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,D,5,34459
+Audi ,Model Y Long Range Performance,6.9 sec,160 km/h,95 km,160 Wh/km,270 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Cabrio,C,4,40795
+BMW ,Q4 e-tron ,7.6 sec,160 km/h,235 km,188 Wh/km,770 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,A,4,38000
+Mercedes ,Mustang Mach-E ER RWD,8.7 sec,240 km/h,270 km,165 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Station,S,5,34361
+Lexus ,Ariya 63kWh,7.9 sec,165 km/h,275 km,180 Wh/km,240 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,SPV,B,2,40936
+Sono ,Ariya 63kWh,4.9 sec,250 km/h,360 km,217 Wh/km,240 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,E,5,33000
+Volkswagen ,Cybertruck Tri Motor,6.6 sec,217 km/h,160 km,244 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,F,5,96990
+Aiways ,Kona Electric 39 kWh,6.5 sec,410 km/h,370 km,170 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,A,5,55480
+Nissan ,M-Byte 72 kWh 2WD,3.0 sec,150 km/h,610 km,166 Wh/km,430 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,N,6,29146
+MG ,Taycan 4S,5.1 sec,260 km/h,440 km,219 Wh/km,510 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Pickup,A,7,34900
+Kia ,3 Crossback E-Tense,2.8 sec,123 km/h,250 km,161 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SUV,C,4,24790
+Audi ,ZS EV,4.8 sec,233 km/h,270 km,193 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,A,6,69551
+Citroen ,500e Convertible,3.8 sec,210 km/h,335 km,211 Wh/km,780 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,E,6,24565
+Volkswagen ,e-Golf ,9.9 sec,135 km/h,290 km,206 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,B,5,68040
+Polestar ,Leaf e+,9.7 sec,160 km/h,325 km,173 Wh/km,930 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,A,5,96990
+Peugeot ,e-Niro 39 kWh,4.0 sec,233 km/h,190 km,160 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,D,6,70631
+Lucid ,EQ fortwo cabrio,3.0 sec,123 km/h,370 km,258 Wh/km,320 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,D,7,55480
+Mercedes ,ID.4 ,5.0 sec,410 km/h,350 km,238 Wh/km,730 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,A,7,40936
+MG ,CITIGOe iV ,8.7 sec,160 km/h,340 km,194 Wh/km,230 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,MPV,S,4,102990
+Volkswagen ,3 Crossback E-Tense,6.6 sec,167 km/h,190 km,166 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2,MPV,B,5,125000
+SEAT ,Ariya e-4ORCE 87kWh Performance,5.9 sec,410 km/h,190 km,209 Wh/km,-,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,C,7,34400
+Fiat ,Cybertruck Dual Motor,8.1 sec,250 km/h,505 km,222 Wh/km,220 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,SUV,N,4,30000
+Mazda ,e-Golf ,6.6 sec,250 km/h,970 km,183 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,F,4,30000
+Honda ,Corsa-e ,8.8 sec,225 km/h,365 km,178 Wh/km,890 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,D,2,41526
+Jaguar ,M-Byte 72 kWh 2WD,3.8 sec,261 km/h,270 km,211 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,F,6,75351
+BMW ,Model 3 Long Range Dual Motor,12.6 sec,410 km/h,370 km,164 Wh/km,330 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,F,6,29682
+Aiways ,e-tron Sportback 50 quattro,5.9 sec,165 km/h,320 km,273 Wh/km,490 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,MPV,A,5,46900
+Smart ,Taycan Turbo,3.0 sec,123 km/h,335 km,164 Wh/km,500 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,SUV,C,5,68040
+CUPRA ,ID.3 Pure,4.5 sec,140 km/h,505 km,168 Wh/km,260 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,B,7,31681
+Honda ,Taycan Turbo,3.4 sec,240 km/h,195 km,195 Wh/km,620 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Sedan,B,2,40936
+Jaguar ,I-Pace ,6.5 sec,217 km/h,95 km,193 Wh/km,210 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Sedan,S,7,69551
+Volkswagen ,Kona Electric 39 kWh,6.5 sec,157 km/h,435 km,176 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,S,4,38017
+Byton ,Taycan Turbo,6.2 sec,150 km/h,250 km,261 Wh/km,410 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,D,2,96990
+Tesla ,el-Born ,4.5 sec,150 km/h,385 km,154 Wh/km,420 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Pickup,B,6,150000
+Volkswagen ,i4 ,5.1 sec,167 km/h,330 km,231 Wh/km,170 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,SUV,E,6,56440
+Citroen ,e-Soul 64 kWh,2.1 sec,250 km/h,310 km,261 Wh/km,500 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,S,5,36057
+Opel ,EQA ,9.7 sec,190 km/h,610 km,219 Wh/km,360 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Pickup,D,4,33000
+Audi ,e-Niro 39 kWh,8.5 sec,167 km/h,235 km,267 Wh/km,610 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Liftback,A,2,61480
+DS ,e-tron Sportback 55 quattro,6.3 sec,144 km/h,450 km,237 Wh/km,490 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Cabrio,D,4,32646
+Honda ,EQA ,7.5 sec,250 km/h,440 km,178 Wh/km,390 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,E,5,24565
+BMW ,Taycan Turbo,9.9 sec,210 km/h,280 km,216 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,B,2,96990
+Smart ,Kona Electric 39 kWh,2.1 sec,145 km/h,295 km,160 Wh/km,240 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,S,6,37900
+Peugeot ,ID.3 Pure,5.6 sec,210 km/h,400 km,172 Wh/km,470 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,A,5,20129
+Citroen ,e-2008 SUV ,3.7 sec,240 km/h,295 km,178 Wh/km,650 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Liftback,A,5,40000
+Mercedes ,Mustang Mach-E ER AWD,4.8 sec,250 km/h,360 km,197 Wh/km,350 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Sedan,S,6,50000
+Kia ,Enyaq iV 80,9.0 sec,150 km/h,325 km,195 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,E,4,46380
+Kia ,e-Up! ,7.9 sec,167 km/h,325 km,180 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,F,4,36837
+Aiways ,Mustang Mach-E SR RWD,4.5 sec,250 km/h,195 km,178 Wh/km,780 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,MPV,B,7,35921
+Nissan ,iX3 ,7.3 sec,260 km/h,425 km,160 Wh/km,320 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Cabrio,E,7,35575
+Skoda ,Model X Performance,9.5 sec,140 km/h,440 km,216 Wh/km,570 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Liftback,C,2,56440
+Audi ,M-Byte 72 kWh 2WD,12.6 sec,241 km/h,160 km,104 Wh/km,500 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Hatchback,A,7,20129
+Lightyear ,Zoe ZE50 R135,10.0 sec,165 km/h,515 km,273 Wh/km,320 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Station,E,5,46380
+Honda ,Model S Performance,8.2 sec,167 km/h,230 km,200 Wh/km,850 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Hatchback,F,5,34361
+Opel ,e-208 ,7.6 sec,157 km/h,440 km,219 Wh/km,520 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,SUV,E,6,85990
+Opel ,I-Pace ,3.0 sec,135 km/h,195 km,209 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Hatchback,D,5,36057
+Audi ,Model 3 Standard Range Plus,5.6 sec,135 km/h,195 km,177 Wh/km,190 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Pickup,B,5,22030
+Peugeot ,Mustang Mach-E SR AWD,3.2 sec,261 km/h,385 km,160 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,D,5,24790
+Jaguar ,IONIQ Electric,7.0 sec,250 km/h,380 km,153 Wh/km,270 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,C,4,33133
+Opel ,Zoe ZE40 R110,9.0 sec,135 km/h,425 km,217 Wh/km,730 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,E,2,67358
+CUPRA ,Twingo ZE,7.9 sec,200 km/h,350 km,223 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,E,5,35921
+Smart ,e-Soul 39 kWh,8.5 sec,123 km/h,190 km,179 Wh/km,340 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Sedan,F,5,57500
+Citroen ,Enyaq iV 50,6.5 sec,160 km/h,430 km,219 Wh/km,620 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,E,5,35000
+Smart ,e-Niro 39 kWh,3.2 sec,250 km/h,330 km,198 Wh/km,500 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,F,2,37900
+Honda ,ID.3 Pro S,7.9 sec,260 km/h,180 km,164 Wh/km,360 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Cabrio,B,5,54475
+Mini ,e-Niro 64 kWh,6.8 sec,150 km/h,185 km,181 Wh/km,480 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,MPV,E,5,81639
+Audi ,Q4 Sportback e-tron ,2.8 sec,180 km/h,390 km,178 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SPV,D,2,69484
+Byton ,e-C4 ,7.6 sec,150 km/h,425 km,177 Wh/km,410 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,D,2,109302
+Tesla ,Taycan Turbo S,6.8 sec,155 km/h,290 km,167 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,C,5,105000
+Mini ,ID.3 Pro Performance,6.0 sec,261 km/h,440 km,215 Wh/km,550 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Liftback,F,5,79445
+Volkswagen ,e-Niro 64 kWh,11.9 sec,155 km/h,250 km,211 Wh/km,920 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Cabrio,N,5,22030
+Kia ,EQ forfour ,5.6 sec,241 km/h,610 km,194 Wh/km,210 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,F,7,54475
+Lexus ,U5 ,4.5 sec,241 km/h,225 km,183 Wh/km,260 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Cabrio,E,6,79445
+Renault ,Ariya e-4ORCE 63kWh,4.5 sec,135 km/h,310 km,184 Wh/km,360 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Sedan,F,2,96990
+Honda ,M-Byte 72 kWh 2WD,6.6 sec,217 km/h,250 km,181 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,E,7,46380
+Nissan ,Mokka-e ,9.0 sec,150 km/h,220 km,161 Wh/km,910 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,F,5,62900
+BMW ,e Advance,8.5 sec,410 km/h,180 km,165 Wh/km,620 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,SUV,N,5,36837
+Mazda ,Mokka-e ,5.6 sec,135 km/h,575 km,219 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Cabrio,E,2,58620
+Peugeot ,i3 120 Ah,4.9 sec,157 km/h,235 km,175 Wh/km,560 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,B,5,149000
+Skoda ,U5 ,11.4 sec,180 km/h,255 km,165 Wh/km,730 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,A,7,33246
+BMW ,e-tron Sportback 55 quattro,3.0 sec,250 km/h,425 km,153 Wh/km,350 km/h,Rapid charging possible,All Wheel Drive,Type 2,Pickup,S,5,149000
+Lexus ,Mokka-e ,9.7 sec,180 km/h,750 km,175 Wh/km,260 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,F,5,79445
+Jaguar ,EQ forfour ,10.0 sec,217 km/h,250 km,104 Wh/km,610 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Cabrio,B,2,65000
+Volkswagen ,Leaf ,9.8 sec,180 km/h,425 km,216 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,A,5,40936
+Hyundai ,Enyaq iV 50,9.5 sec,225 km/h,750 km,166 Wh/km,470 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,F,5,180781
+Skoda ,Roadster ,4.5 sec,157 km/h,750 km,232 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Pickup,C,7,75351
+Mercedes ,Model 3 Long Range Performance,5.9 sec,200 km/h,195 km,216 Wh/km,540 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,D,5,29682
+Ford ,ID.3 Pro,22.4 sec,167 km/h,350 km,171 Wh/km,-,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,A,7,55480
+Kia ,Model S Long Range,8.8 sec,190 km/h,750 km,211 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,C,4,34400
+Volvo ,i3s 120 Ah,3.0 sec,217 km/h,440 km,173 Wh/km,230 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,E,5,31184
+Renault ,Twingo ZE,5.5 sec,240 km/h,280 km,160 Wh/km,770 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,MPV,N,2,34900
+Polestar ,MX-30 ,11.9 sec,250 km/h,130 km,195 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Pickup,N,2,67358
+Sono ,e-Niro 39 kWh,7.6 sec,155 km/h,460 km,273 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2,Liftback,C,4,64000
+Mercedes ,IONIQ Electric,8.1 sec,260 km/h,460 km,104 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2,MPV,A,7,37422
+Sono ,500e Convertible,9.7 sec,217 km/h,440 km,244 Wh/km,450 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Hatchback,D,7,55480
+Lexus ,Model 3 Standard Range Plus,9.0 sec,250 km/h,575 km,179 Wh/km,320 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Sedan,S,6,31900
+Audi ,i4 ,12.3 sec,250 km/h,365 km,156 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,E,5,62900
+Mazda ,EQ fortwo cabrio,7.9 sec,410 km/h,225 km,191 Wh/km,520 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Station,A,5,38000
+Mercedes ,e-tron GT ,2.8 sec,261 km/h,190 km,222 Wh/km,410 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,N,7,21421
+Sono ,Roadster ,2.8 sec,144 km/h,360 km,228 Wh/km,350 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,A,2,37500
+CUPRA ,Kona Electric 39 kWh,6.6 sec,123 km/h,130 km,238 Wh/km,650 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Station,S,5,61480
+Citroen ,Taycan Turbo,5.7 sec,144 km/h,255 km,165 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,F,2,85990
+Jaguar ,M-Byte 72 kWh 2WD,3.7 sec,260 km/h,425 km,154 Wh/km,480 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Station,B,7,37500
+Aiways ,el-Born ,3.7 sec,167 km/h,505 km,176 Wh/km,620 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,C,6,24790
+Mercedes ,Taycan Turbo,3.0 sec,210 km/h,970 km,231 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Pickup,A,2,67358
+Ford ,Ariya e-4ORCE 63kWh,3.2 sec,225 km/h,400 km,168 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,MPV,C,2,36837
+Tesla ,Enyaq iV 80,3.7 sec,241 km/h,400 km,216 Wh/km,650 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,E,5,64000
+Renault ,ID.3 1st,4.5 sec,180 km/h,190 km,211 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,N,7,29146
+SEAT ,e-Soul 39 kWh,2.5 sec,140 km/h,385 km,267 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,6,69484
+Ford ,ID.3 Pure,7.3 sec,157 km/h,360 km,165 Wh/km,730 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Sedan,C,6,37500
+Aiways ,Kangoo Maxi ZE 33,2.5 sec,225 km/h,275 km,215 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Hatchback,N,4,58620
+Smart ,Taycan Turbo S,5.1 sec,135 km/h,235 km,176 Wh/km,210 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Cabrio,C,5,31681
+Volkswagen ,e-208 ,5.5 sec,200 km/h,185 km,180 Wh/km,270 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SPV,D,2,37422
+SEAT ,e-tron 50 quattro,2.5 sec,160 km/h,365 km,171 Wh/km,430 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Hatchback,N,4,75000
+Smart ,Kona Electric 39 kWh,3.8 sec,240 km/h,185 km,179 Wh/km,500 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Cabrio,E,5,64000
+SEAT ,I-Pace ,11.9 sec,180 km/h,335 km,171 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Pickup,B,7,50000
+Honda ,e Advance,5.7 sec,233 km/h,750 km,188 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,F,4,36057
+Opel ,Model X Long Range,7.8 sec,150 km/h,190 km,160 Wh/km,930 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SPV,D,4,30000
+MG ,M-Byte 72 kWh 2WD,9.6 sec,130 km/h,350 km,175 Wh/km,710 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Station,S,2,30000
+Kia ,Enyaq iV vRS,11.9 sec,155 km/h,450 km,206 Wh/km,900 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,S,7,65000
+Ford ,3 Crossback E-Tense,7.9 sec,260 km/h,365 km,164 Wh/km,590 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Hatchback,F,7,75000
+Tesla ,e Advance,3.2 sec,241 km/h,365 km,193 Wh/km,550 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Hatchback,C,4,38000
+Nissan ,Mustang Mach-E ER AWD,12.7 sec,180 km/h,100 km,231 Wh/km,210 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,5,96990
+CUPRA ,e-Up! ,3.8 sec,155 km/h,350 km,156 Wh/km,380 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Station,F,5,62000
+Mercedes ,ID.4 ,14.0 sec,144 km/h,250 km,175 Wh/km,380 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,S,6,56440
+Lexus ,Taycan 4S,12.7 sec,155 km/h,235 km,256 Wh/km,910 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SPV,E,4,50000
+Volvo ,ID.3 Pro S,11.9 sec,165 km/h,130 km,231 Wh/km,-,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Pickup,A,5,149000
+Mazda ,M-Byte 95 kWh 4WD,9.9 sec,260 km/h,160 km,238 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,B,6,57500
+Tesla ,e Advance,4.5 sec,210 km/h,425 km,273 Wh/km,930 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,F,6,29234
+Kia ,Model Y Long Range Dual Motor,2.5 sec,210 km/h,435 km,178 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,N,5,58620
+DS ,Taycan Cross Turismo ,7.8 sec,144 km/h,450 km,211 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,F,2,31184
+DS ,Leaf e+,7.9 sec,240 km/h,190 km,171 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Liftback,D,5,96990
+Smart ,Taycan Turbo S,6.0 sec,233 km/h,350 km,181 Wh/km,550 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Cabrio,F,6,57500
+Citroen ,ID.4 ,5.9 sec,241 km/h,295 km,232 Wh/km,910 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SPV,A,6,37237
+DS ,M-Byte 95 kWh 4WD,6.5 sec,165 km/h,95 km,173 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,N,6,125000
+Audi ,EQ fortwo cabrio,11.9 sec,140 km/h,180 km,172 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SUV,C,6,37237
+SEAT ,ID.3 Pro,14.0 sec,123 km/h,95 km,175 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Liftback,C,5,56440
+Mini ,EQA ,4.7 sec,200 km/h,370 km,188 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,C,5,65620
+CUPRA ,Enyaq iV vRS,3.0 sec,167 km/h,180 km,175 Wh/km,470 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Pickup,C,2,60437
+Porsche ,Q4 Sportback e-tron ,8.7 sec,130 km/h,330 km,166 Wh/km,390 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,N,4,34900
+Renault ,EQV 300 Long,3.5 sec,145 km/h,310 km,104 Wh/km,190 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,SUV,N,7,79445
+Volvo ,Air ,4.9 sec,130 km/h,435 km,244 Wh/km,270 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Station,D,4,35000
+Renault ,ID.3 Pro S,2.5 sec,225 km/h,315 km,197 Wh/km,590 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SPV,S,6,22030
+Porsche ,i4 ,5.5 sec,140 km/h,220 km,166 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,6,40000
+Volvo ,Enyaq iV 80,9.7 sec,190 km/h,310 km,178 Wh/km,730 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,D,6,62000
+Lightyear ,Zoe ZE50 R110,4.7 sec,180 km/h,275 km,238 Wh/km,650 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,E,7,38987
+Audi ,EQ forfour ,10.0 sec,250 km/h,95 km,273 Wh/km,550 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,SUV,N,5,37237
+Opel ,Model X Long Range,2.5 sec,410 km/h,330 km,175 Wh/km,270 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,D,5,36837
+Mini ,Model S Performance,5.0 sec,410 km/h,330 km,256 Wh/km,190 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Pickup,B,2,30000
+Nissan ,Enyaq iV 80,11.9 sec,140 km/h,195 km,188 Wh/km,540 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Sedan,E,4,35921
+Jaguar ,e-Soul 39 kWh,4.7 sec,144 km/h,310 km,191 Wh/km,430 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Station,A,4,58620
+Opel ,EQC 400 4MATIC,8.5 sec,150 km/h,250 km,164 Wh/km,940 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,B,4,45000
+Peugeot ,M-Byte 95 kWh 2WD,11.9 sec,160 km/h,95 km,232 Wh/km,380 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,MPV,S,7,50000
+Aiways ,Kangoo Maxi ZE 33,4.0 sec,130 km/h,170 km,166 Wh/km,410 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,SPV,D,7,125000
+Smart ,M-Byte 72 kWh 2WD,6.8 sec,157 km/h,515 km,153 Wh/km,810 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,E,2,32646
+Tesla ,e-Niro 64 kWh,7.6 sec,410 km/h,325 km,211 Wh/km,240 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,MPV,D,5,32997
+Volkswagen ,Enyaq iV 80,6.3 sec,260 km/h,410 km,177 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SPV,E,5,32997
+Aiways ,ID.3 Pro S,6.0 sec,241 km/h,420 km,216 Wh/km,410 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Cabrio,D,7,31900
+DS ,i3 120 Ah,4.5 sec,145 km/h,505 km,164 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,A,4,41526
+Lightyear ,ZS EV,4.5 sec,190 km/h,460 km,222 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Liftback,N,5,69551
+Aiways ,Ariya e-4ORCE 87kWh,6.0 sec,157 km/h,400 km,167 Wh/km,240 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,S,6,67358
+Volvo ,Cooper SE ,4.5 sec,150 km/h,350 km,222 Wh/km,170 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Sedan,D,7,68040
+Skoda ,Ariya e-4ORCE 63kWh,8.8 sec,157 km/h,400 km,164 Wh/km,780 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,MPV,C,7,55000
+Audi ,i3 120 Ah,4.6 sec,261 km/h,130 km,184 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Pickup,A,5,40936
+Mercedes ,Taycan 4S Plus,11.6 sec,200 km/h,95 km,154 Wh/km,540 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Cabrio,C,4,55480
+Volkswagen ,e-tron 55 quattro,8.7 sec,130 km/h,430 km,195 Wh/km,480 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,MPV,A,2,149000
+Tesla ,ID.3 Pure,3.0 sec,144 km/h,220 km,219 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2,SPV,A,5,85990
+Ford ,MX-30 ,4.8 sec,150 km/h,385 km,191 Wh/km,320 km/h,Rapid charging possible,All Wheel Drive,Type 2,Sedan,D,5,46380
+Hyundai ,M-Byte 95 kWh 2WD,11.4 sec,190 km/h,185 km,209 Wh/km,540 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Cabrio,B,2,58620
+Honda ,500e Hatchback,2.8 sec,250 km/h,440 km,176 Wh/km,620 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,N,6,215000
+Volvo ,i3 120 Ah,7.0 sec,167 km/h,250 km,168 Wh/km,730 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SPV,D,4,34361
+Volvo ,Roadster ,7.8 sec,225 km/h,970 km,175 Wh/km,740 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Liftback,C,5,33971
+Tesla ,Model Y Long Range Dual Motor,9.8 sec,210 km/h,410 km,223 Wh/km,220 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,C,2,46380
+Smart ,Enyaq iV 80,5.6 sec,225 km/h,220 km,170 Wh/km,540 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,E,4,60437
+Audi ,e-Up! ,7.8 sec,123 km/h,190 km,270 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,N,5,24565
+Tesla ,e ,6.5 sec,150 km/h,190 km,209 Wh/km,710 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,E,4,96050
+Byton ,Enyaq iV 80,7.5 sec,130 km/h,230 km,184 Wh/km,940 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Sedan,E,5,31681
+Polestar ,Enyaq iV 80,9.6 sec,240 km/h,610 km,238 Wh/km,850 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Hatchback,S,2,32646
+Skoda ,i4 ,7.9 sec,233 km/h,320 km,244 Wh/km,520 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SPV,N,4,125000
+Hyundai ,e-Up! ,3.0 sec,144 km/h,270 km,209 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,B,2,33246
+Lexus ,Leaf e+,7.9 sec,241 km/h,170 km,154 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2,SPV,N,5,53500
+Polestar ,e-Up! ,11.6 sec,410 km/h,450 km,270 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,S,7,24565
+Aiways ,Enyaq iV 80X,12.6 sec,144 km/h,450 km,223 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,B,6,96990
+Honda ,e-tron GT ,9.7 sec,135 km/h,270 km,267 Wh/km,550 km/h,Rapid charging possible,Front Wheel Drive,Type 2,MPV,B,6,37237
+Lexus ,Zoe ZE40 R110,4.6 sec,210 km/h,335 km,200 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,A,2,32646
+Honda ,Enyaq iV 50,7.3 sec,261 km/h,610 km,258 Wh/km,810 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,SPV,F,7,68040
+Mini ,e-NV200 Evalia ,5.0 sec,225 km/h,185 km,273 Wh/km,340 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,E,7,36057
+Mini ,Model S Long Range,12.6 sec,123 km/h,95 km,195 Wh/km,900 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Sedan,F,4,55000
+Jaguar ,Kona Electric 64 kWh,7.6 sec,250 km/h,390 km,154 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Hatchback,E,7,29682
+MG ,e-Soul 39 kWh,11.9 sec,240 km/h,100 km,193 Wh/km,890 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Station,N,7,79445
+Sono ,ID.3 Pro,4.7 sec,123 km/h,185 km,104 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,F,2,215000
+Skoda ,Roadster ,5.9 sec,130 km/h,375 km,200 Wh/km,620 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,A,5,34361
+Lexus ,e-Soul 39 kWh,12.6 sec,135 km/h,750 km,200 Wh/km,940 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,SUV,B,7,61480
+Mini ,Mustang Mach-E ER AWD,14.0 sec,250 km/h,100 km,191 Wh/km,450 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Sedan,F,7,20129
+Opel ,M-Byte 72 kWh 2WD,5.7 sec,165 km/h,310 km,175 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2,SPV,F,4,109302
+Renault ,Ariya e-4ORCE 87kWh,11.6 sec,210 km/h,325 km,195 Wh/km,560 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Liftback,S,7,69484
+Ford ,IONIQ Electric,5.7 sec,150 km/h,440 km,167 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Station,D,6,37422
+Byton ,XC40 P8 AWD Recharge,11.9 sec,200 km/h,505 km,184 Wh/km,250 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,E,4,40795
+Lightyear ,e-Golf ,3.4 sec,250 km/h,195 km,156 Wh/km,390 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,S,6,24565
+Lexus ,Mii Electric ,3.8 sec,123 km/h,180 km,168 Wh/km,250 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,A,7,38987
+Byton ,e-tron 55 quattro,9.9 sec,225 km/h,425 km,258 Wh/km,230 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,SUV,N,5,34900
+Honda ,i3 120 Ah,7.5 sec,217 km/h,390 km,228 Wh/km,730 km/h,Rapid charging possible,Front Wheel Drive,Type 2,MPV,D,7,30000
+Mercedes ,EQ forfour ,8.2 sec,210 km/h,435 km,172 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,7,55000
+Skoda ,Ariya e-4ORCE 87kWh Performance,4.6 sec,155 km/h,450 km,183 Wh/km,240 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,B,4,32646
+Mercedes ,e-tron 55 quattro,7.9 sec,217 km/h,435 km,175 Wh/km,190 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Sedan,C,6,38987
+Volkswagen ,ID.4 ,6.3 sec,144 km/h,325 km,173 Wh/km,340 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Pickup,F,7,31900
+MG ,Model X Long Range,4.9 sec,200 km/h,410 km,183 Wh/km,740 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,MPV,S,7,29234
+Lexus ,e Advance,6.6 sec,160 km/h,225 km,216 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Station,B,6,35921
+Fiat ,ID.3 Pro,6.3 sec,410 km/h,420 km,184 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Sedan,S,7,75000
+Lucid ,Taycan Cross Turismo ,5.0 sec,240 km/h,185 km,193 Wh/km,500 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,A,4,68040
+Sono ,I-Pace ,5.9 sec,160 km/h,310 km,170 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,MPV,N,2,38000
+Jaguar ,EQ fortwo coupe,5.1 sec,180 km/h,340 km,215 Wh/km,170 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Cabrio,N,4,37422
+BMW ,Model 3 Long Range Dual Motor,3.0 sec,150 km/h,350 km,273 Wh/km,650 km/h,Rapid charging possible,All Wheel Drive,Type 2,Liftback,C,5,38987
+Peugeot ,Ampera-e ,7.6 sec,217 km/h,185 km,153 Wh/km,-,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,E,6,125000
+Polestar ,IONIQ Electric,6.9 sec,123 km/h,435 km,181 Wh/km,780 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Liftback,B,5,148301
+Lightyear ,Leaf e+,8.2 sec,160 km/h,610 km,228 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Station,C,6,85990
+MG ,Model X Performance,5.5 sec,140 km/h,440 km,194 Wh/km,190 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Cabrio,D,6,58620
+Byton ,Cybertruck Single Motor,6.2 sec,217 km/h,515 km,176 Wh/km,590 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Cabrio,S,7,81639
+Polestar ,500e Hatchback,8.3 sec,250 km/h,440 km,244 Wh/km,380 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Cabrio,E,4,21387
+BMW ,Enyaq iV vRS,6.9 sec,123 km/h,390 km,273 Wh/km,470 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Cabrio,C,6,20129
+Volkswagen ,Twingo ZE,8.8 sec,200 km/h,435 km,231 Wh/km,220 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Cabrio,N,2,79990
+Tesla ,Zoe ZE50 R110,3.2 sec,157 km/h,180 km,176 Wh/km,890 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Cabrio,C,7,75351
+BMW ,Cooper SE ,5.5 sec,410 km/h,385 km,215 Wh/km,260 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,F,5,60437
+Fiat ,e ,6.6 sec,155 km/h,310 km,198 Wh/km,210 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,E,6,79990
+Opel ,Enyaq iV 80,8.3 sec,155 km/h,270 km,188 Wh/km,430 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,C,6,33000
+Jaguar ,e-tron 50 quattro,5.1 sec,250 km/h,350 km,180 Wh/km,260 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,C,7,61480
+Porsche ,ID.3 Pro S,4.7 sec,150 km/h,505 km,219 Wh/km,290 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,B,4,29234
+Ford ,Model X Long Range,3.2 sec,180 km/h,255 km,175 Wh/km,740 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Pickup,C,5,53500
+Kia ,Mustang Mach-E ER AWD,7.6 sec,130 km/h,420 km,153 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 2,MPV,F,5,21387
+Volkswagen ,e-tron 55 quattro,7.8 sec,190 km/h,190 km,228 Wh/km,230 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Liftback,S,2,31681
+Fiat ,Taycan Cross Turismo ,4.7 sec,217 km/h,220 km,176 Wh/km,510 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Sedan,F,4,34459
+Audi ,e-NV200 Evalia ,7.5 sec,140 km/h,95 km,219 Wh/km,650 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SUV,B,5,33133
+Hyundai ,Ampera-e ,8.1 sec,167 km/h,220 km,237 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SPV,D,2,31900
+Citroen ,e-tron S 55 quattro,7.5 sec,135 km/h,425 km,216 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Liftback,N,4,24565
+Mini ,Model Y Long Range Performance,11.9 sec,240 km/h,195 km,231 Wh/km,410 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Hatchback,E,5,37422
+Jaguar ,Taycan 4S Plus,4.8 sec,225 km/h,235 km,256 Wh/km,-,Rapid charging possible,All Wheel Drive,Type 2,Sedan,C,6,34361
+CUPRA ,Model X Performance,7.6 sec,250 km/h,250 km,209 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Hatchback,D,6,38105
+Lexus ,e-Niro 64 kWh,8.7 sec,167 km/h,750 km,171 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,MPV,N,4,32646
+Ford ,U5 ,6.0 sec,180 km/h,170 km,177 Wh/km,850 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Pickup,F,5,34400
+Peugeot ,Cybertruck Single Motor,6.9 sec,165 km/h,270 km,173 Wh/km,520 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,MPV,E,5,102945
+CUPRA ,CITIGOe iV ,12.6 sec,180 km/h,390 km,258 Wh/km,470 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Liftback,N,4,24565
+Fiat ,M-Byte 72 kWh 2WD,3.5 sec,144 km/h,610 km,153 Wh/km,540 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Hatchback,A,6,40936
+BMW ,i3s 120 Ah,6.3 sec,225 km/h,280 km,166 Wh/km,350 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,B,2,55480
+Hyundai ,500e Convertible,9.9 sec,210 km/h,185 km,166 Wh/km,390 km/h,Rapid charging possible,All Wheel Drive,Type 2,Sedan,B,7,29682
+BMW ,ID.3 Pro,2.8 sec,155 km/h,130 km,175 Wh/km,270 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,C,5,69551
+Lightyear ,500e Hatchback,3.7 sec,240 km/h,505 km,170 Wh/km,570 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Pickup,C,4,64000
+Skoda ,Mustang Mach-E ER RWD,7.8 sec,240 km/h,310 km,209 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Cabrio,E,4,40000
+Skoda ,Taycan Turbo S,7.6 sec,135 km/h,410 km,209 Wh/km,260 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,SPV,A,7,31900
+Opel ,ID.3 Pro Performance,12.3 sec,210 km/h,180 km,170 Wh/km,850 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,N,4,58620
+Opel ,e-NV200 Evalia ,2.8 sec,260 km/h,380 km,206 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SPV,E,2,45000
+Mini ,e ,7.8 sec,145 km/h,360 km,261 Wh/km,590 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Liftback,D,2,35000
+Kia ,Mustang Mach-E SR AWD,10.0 sec,190 km/h,365 km,179 Wh/km,430 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,B,5,55480
+Mercedes ,e-tron S 55 quattro,4.0 sec,240 km/h,100 km,216 Wh/km,340 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,4,33133
+Volkswagen ,e-tron GT ,3.7 sec,150 km/h,180 km,206 Wh/km,890 km/h,Rapid charging possible,All Wheel Drive,Type 2,Pickup,E,5,50000
+Renault ,CITIGOe iV ,4.6 sec,160 km/h,185 km,173 Wh/km,550 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Cabrio,C,5,34400
+Lightyear ,Ariya 87kWh,6.0 sec,157 km/h,100 km,166 Wh/km,320 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Hatchback,E,7,30000
+Lucid ,Kona Electric 39 kWh,3.8 sec,123 km/h,100 km,173 Wh/km,740 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,D,7,29682
+Smart ,Mokka-e ,9.7 sec,410 km/h,170 km,178 Wh/km,270 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,D,5,34400
+Kia ,e-Soul 64 kWh,8.2 sec,144 km/h,290 km,181 Wh/km,250 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Hatchback,A,6,24565
+Fiat ,3 Crossback E-Tense,7.8 sec,210 km/h,280 km,175 Wh/km,610 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,A,4,21421
+Lightyear ,Q4 e-tron ,9.7 sec,140 km/h,190 km,180 Wh/km,910 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,C,4,41526
+Lightyear ,Sion ,9.6 sec,180 km/h,435 km,180 Wh/km,500 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,MPV,C,6,102990
+Fiat ,e-tron S Sportback 55 quattro,10.0 sec,135 km/h,350 km,156 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,N,5,29234
+Lexus ,Taycan 4S,2.8 sec,144 km/h,360 km,238 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,C,4,38987
+SEAT ,Kona Electric 64 kWh,11.9 sec,150 km/h,340 km,232 Wh/km,610 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Sedan,A,7,102945
+Byton ,Ampera-e ,8.5 sec,190 km/h,360 km,188 Wh/km,540 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,E,7,62900
+DS ,M-Byte 95 kWh 2WD,7.3 sec,180 km/h,360 km,104 Wh/km,930 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Cabrio,A,6,33971
+Renault ,Cybertruck Dual Motor,8.5 sec,200 km/h,400 km,258 Wh/km,770 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,C,6,54475
+SEAT ,i3s 120 Ah,8.1 sec,157 km/h,750 km,193 Wh/km,650 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,SPV,E,2,38017
+Mercedes ,Ariya e-4ORCE 63kWh,4.8 sec,250 km/h,325 km,168 Wh/km,210 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,F,5,70631
+Sono ,Model 3 Standard Range Plus,22.4 sec,210 km/h,430 km,238 Wh/km,220 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SPV,F,5,45000
+Citroen ,Ariya 87kWh,2.8 sec,180 km/h,505 km,195 Wh/km,940 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,B,5,40000
+Citroen ,UX 300e,6.9 sec,250 km/h,275 km,166 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,MPV,N,2,56440
+Tesla ,Cybertruck Tri Motor,7.6 sec,217 km/h,425 km,191 Wh/km,650 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Liftback,F,5,53500
+Nissan ,Taycan Turbo S,14.0 sec,241 km/h,195 km,156 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,N,4,57500
+Volvo ,Cooper SE ,2.8 sec,155 km/h,255 km,198 Wh/km,570 km/h,Rapid charging possible,All Wheel Drive,Type 2,Cabrio,C,7,47500
+Honda ,Mustang Mach-E SR AWD,4.6 sec,190 km/h,365 km,237 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Liftback,B,7,81639
+Jaguar ,Roadster ,5.6 sec,210 km/h,130 km,228 Wh/km,290 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Hatchback,D,6,38987
+Sono ,Ampera-e ,11.4 sec,150 km/h,270 km,181 Wh/km,710 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Liftback,E,4,81639
+Jaguar ,ID.3 Pro,9.5 sec,155 km/h,130 km,216 Wh/km,360 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,N,6,105000
+Audi ,e ,7.6 sec,260 km/h,575 km,175 Wh/km,550 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SPV,S,5,45000
+Polestar ,XC40 P8 AWD Recharge,9.6 sec,225 km/h,420 km,173 Wh/km,450 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Liftback,E,7,65000
+CUPRA ,e-tron Sportback 55 quattro,7.9 sec,233 km/h,380 km,156 Wh/km,570 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Pickup,S,7,37500
+Byton ,CITIGOe iV ,9.8 sec,150 km/h,195 km,154 Wh/km,390 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Station,D,5,37900
+Kia ,Cybertruck Dual Motor,6.0 sec,145 km/h,430 km,207 Wh/km,450 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Pickup,S,4,46380
+Audi ,ID.4 ,5.0 sec,165 km/h,430 km,267 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,E,5,31681
+Volkswagen ,ID.3 Pro S,6.2 sec,130 km/h,375 km,219 Wh/km,340 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Cabrio,E,2,33133
+SEAT ,Mustang Mach-E SR RWD,8.2 sec,241 km/h,235 km,217 Wh/km,910 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Station,S,6,54000
+Peugeot ,i4 ,8.7 sec,241 km/h,425 km,217 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2,Sedan,S,4,215000
+Nissan ,e-Soul 64 kWh,5.7 sec,210 km/h,390 km,175 Wh/km,930 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,E,6,69484
+Honda ,Taycan Turbo S,6.3 sec,225 km/h,195 km,153 Wh/km,350 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Station,F,2,38105
+Skoda ,Cybertruck Dual Motor,2.8 sec,210 km/h,255 km,270 Wh/km,190 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,F,2,57500
+SEAT ,ZS EV,11.9 sec,135 km/h,170 km,181 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 2,MPV,N,5,93800
+Sono ,Ariya e-4ORCE 87kWh Performance,9.7 sec,135 km/h,750 km,170 Wh/km,390 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Liftback,S,2,125000
+Smart ,Cybertruck Tri Motor,9.7 sec,261 km/h,275 km,168 Wh/km,740 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Sedan,C,2,102945
+DS ,e-tron 55 quattro,4.8 sec,180 km/h,230 km,168 Wh/km,650 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Station,D,4,38000
+SEAT ,Kona Electric 39 kWh,8.2 sec,155 km/h,235 km,237 Wh/km,920 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,C,5,32646
+Smart ,Enyaq iV 80X,5.0 sec,150 km/h,230 km,244 Wh/km,540 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,N,7,54475
+Peugeot ,Corsa-e ,4.7 sec,250 km/h,310 km,217 Wh/km,390 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,B,7,40000
+Polestar ,Taycan 4S Plus,6.6 sec,200 km/h,440 km,170 Wh/km,360 km/h,Rapid charging not possible,All Wheel Drive,Type 2,SUV,E,5,37237
+CUPRA ,Leaf e+,22.4 sec,144 km/h,130 km,168 Wh/km,510 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,SUV,A,4,54475
+Honda ,e-Soul 64 kWh,6.9 sec,180 km/h,430 km,273 Wh/km,740 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Cabrio,N,2,21421
+Mazda ,Model 3 Long Range Performance,9.9 sec,145 km/h,505 km,161 Wh/km,340 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Hatchback,S,5,29234
+Sono ,Kangoo Maxi ZE 33,6.8 sec,145 km/h,350 km,194 Wh/km,590 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Pickup,S,5,29146
+Mini ,e-tron 50 quattro,9.6 sec,225 km/h,230 km,164 Wh/km,320 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Station,B,5,31681
+Nissan ,Model S Long Range,8.3 sec,160 km/h,410 km,181 Wh/km,520 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,F,5,75000
+Sono ,XC40 P8 AWD Recharge,5.0 sec,135 km/h,515 km,273 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,B,6,32997
+Skoda ,EQ fortwo cabrio,11.9 sec,144 km/h,275 km,170 Wh/km,510 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,N,6,102945
+Ford ,IONIQ Electric,7.8 sec,260 km/h,190 km,170 Wh/km,780 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SPV,D,6,24565
+Hyundai ,Cybertruck Single Motor,7.5 sec,140 km/h,380 km,228 Wh/km,340 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,MPV,S,4,34900
+Smart ,e-tron Sportback 55 quattro,12.3 sec,157 km/h,270 km,161 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,D,4,96050
+Lucid ,Model Y Long Range Performance,9.5 sec,150 km/h,370 km,177 Wh/km,770 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,S,7,65000
+Honda ,M-Byte 95 kWh 4WD,6.6 sec,140 km/h,235 km,197 Wh/km,890 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,MPV,A,4,33133
+Lucid ,Leaf ,4.5 sec,240 km/h,330 km,217 Wh/km,210 km/h,Rapid charging not possible,All Wheel Drive,Type 2,SUV,B,7,75000
+Peugeot ,Model 3 Long Range Dual Motor,6.5 sec,233 km/h,195 km,238 Wh/km,270 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,F,2,30000
+Volkswagen ,Model X Long Range,4.5 sec,180 km/h,95 km,200 Wh/km,610 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,MPV,S,5,56440
+CUPRA ,Zoe ZE50 R135,5.9 sec,140 km/h,460 km,161 Wh/km,770 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Cabrio,C,6,65620
+DS ,ID.3 Pro,9.7 sec,135 km/h,320 km,164 Wh/km,-,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,A,5,31184
+Sono ,el-Born ,9.5 sec,150 km/h,230 km,153 Wh/km,500 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,F,2,109302
+Mini ,ID.3 Pro,9.6 sec,165 km/h,610 km,161 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Station,E,2,25500
+Renault ,ID.3 Pro S,8.7 sec,250 km/h,195 km,180 Wh/km,890 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Liftback,E,6,102945
+Fiat ,Model Y Long Range Dual Motor,4.0 sec,140 km/h,295 km,267 Wh/km,190 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,C,6,75000
+Citroen ,e-Soul 64 kWh,2.5 sec,130 km/h,275 km,193 Wh/km,940 km/h,Rapid charging not possible,All Wheel Drive,Type 2,MPV,S,7,29682
+Lexus ,i4 ,12.7 sec,130 km/h,505 km,165 Wh/km,500 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,N,2,96050
+Volvo ,Taycan Turbo,9.6 sec,157 km/h,440 km,231 Wh/km,540 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,MPV,S,6,41526
+Sono ,Cybertruck Dual Motor,11.9 sec,180 km/h,95 km,168 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Pickup,B,7,54475
+Hyundai ,Taycan Turbo S,6.6 sec,190 km/h,255 km,256 Wh/km,770 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,D,5,38987
+Opel ,ID.3 Pro,7.8 sec,150 km/h,610 km,237 Wh/km,890 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,C,7,93800
+Opel ,Zoe ZE50 R135,4.0 sec,180 km/h,250 km,198 Wh/km,350 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,C,2,96990
+SEAT ,Model X Long Range,4.5 sec,250 km/h,170 km,179 Wh/km,450 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Cabrio,F,7,31681
+Mini ,e-NV200 Evalia ,9.6 sec,250 km/h,460 km,216 Wh/km,230 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Sedan,F,2,33000
+Volvo ,Model S Performance,14.0 sec,200 km/h,225 km,256 Wh/km,350 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Liftback,D,4,31681
+Aiways ,e-NV200 Evalia ,2.5 sec,217 km/h,365 km,153 Wh/km,940 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,N,4,41906
+Audi ,Enyaq iV vRS,3.7 sec,260 km/h,255 km,232 Wh/km,220 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,D,7,96990
+MG ,e-Golf ,3.7 sec,190 km/h,230 km,273 Wh/km,-,Rapid charging possible,All Wheel Drive,Type 2,SUV,C,4,24565
+Byton ,CITIGOe iV ,4.7 sec,145 km/h,275 km,181 Wh/km,730 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Pickup,E,5,24534
+Citroen ,Air ,5.0 sec,250 km/h,185 km,197 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,C,4,62900
+Hyundai ,Enyaq iV vRS,9.8 sec,130 km/h,380 km,261 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,A,5,41906
+MG ,M-Byte 95 kWh 2WD,6.3 sec,150 km/h,170 km,195 Wh/km,440 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,MPV,B,2,29234
+Kia ,Kona Electric 64 kWh,14.0 sec,167 km/h,380 km,164 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Cabrio,E,6,180781
+Lightyear ,Enyaq iV 80,3.0 sec,180 km/h,320 km,170 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,D,5,40936
+Peugeot ,Model S Performance,8.7 sec,145 km/h,190 km,176 Wh/km,350 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Cabrio,S,5,33133
+Mazda ,Model S Performance,3.8 sec,200 km/h,310 km,181 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,B,5,46900
+Mazda ,3 Crossback E-Tense,4.6 sec,130 km/h,610 km,273 Wh/km,320 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,S,7,64000
+Fiat ,Zoe ZE40 R110,5.9 sec,190 km/h,315 km,267 Wh/km,740 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,SUV,N,2,69484
+Kia ,Model 3 Long Range Dual Motor,8.3 sec,145 km/h,190 km,231 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,F,4,34900
+CUPRA ,Taycan Turbo,9.8 sec,167 km/h,170 km,209 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,S,6,40000
+Lucid ,Model 3 Standard Range Plus,5.6 sec,150 km/h,385 km,104 Wh/km,520 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Liftback,B,5,40936
+Jaguar ,M-Byte 95 kWh 4WD,4.9 sec,157 km/h,750 km,191 Wh/km,740 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,N,4,21421
+Aiways ,e-C4 ,2.8 sec,160 km/h,95 km,238 Wh/km,440 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,SUV,D,5,102945
+Citroen ,500e Hatchback,11.9 sec,200 km/h,220 km,175 Wh/km,940 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Cabrio,C,5,180781
+Mercedes ,ID.3 Pro S,2.8 sec,190 km/h,170 km,200 Wh/km,810 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,MPV,S,7,35000
+Lucid ,Kona Electric 64 kWh,4.8 sec,260 km/h,170 km,170 Wh/km,560 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Pickup,C,2,38000
+Lucid ,Mii Electric ,6.0 sec,261 km/h,350 km,173 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,N,7,32646
+Tesla ,I-Pace ,3.4 sec,150 km/h,180 km,188 Wh/km,710 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,A,5,55000
+DS ,Kona Electric 64 kWh,6.2 sec,250 km/h,250 km,183 Wh/km,570 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Cabrio,F,7,36057
+Fiat ,Model X Performance,6.3 sec,260 km/h,970 km,166 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Hatchback,N,5,54000
+Kia ,e Advance,9.8 sec,140 km/h,195 km,267 Wh/km,490 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Station,S,4,34900
+Audi ,ID.3 Pure,4.0 sec,135 km/h,610 km,165 Wh/km,320 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Cabrio,B,5,62900
+CUPRA ,ZS EV,4.8 sec,190 km/h,280 km,161 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,B,5,180781
+Sono ,Enyaq iV vRS,10.0 sec,250 km/h,340 km,175 Wh/km,460 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,S,5,75000
+Jaguar ,i3s 120 Ah,7.0 sec,250 km/h,190 km,193 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,E,4,53500
+Kia ,e ,9.6 sec,155 km/h,610 km,161 Wh/km,430 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Station,C,7,34900
+Skoda ,el-Born ,11.6 sec,130 km/h,420 km,175 Wh/km,250 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,D,7,68040
+Ford ,Mii Electric ,6.9 sec,123 km/h,235 km,183 Wh/km,320 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Sedan,C,7,96990
+MG ,e-Golf ,3.0 sec,167 km/h,230 km,261 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,E,7,69484
+Audi ,Zoe ZE50 R110,14.0 sec,240 km/h,505 km,216 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,B,5,33000
+Mazda ,ID.3 Pro S,7.8 sec,225 km/h,190 km,237 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,C,5,149000
+Mazda ,Cybertruck Dual Motor,6.5 sec,123 km/h,390 km,154 Wh/km,620 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Liftback,D,4,35000
+Peugeot ,Air ,4.0 sec,190 km/h,225 km,188 Wh/km,730 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Cabrio,A,7,41906
+Byton ,e-Niro 39 kWh,9.8 sec,135 km/h,425 km,194 Wh/km,460 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,E,5,56440
+Renault ,EQ fortwo cabrio,4.7 sec,130 km/h,390 km,180 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Pickup,E,4,64000
+DS ,EQ fortwo cabrio,6.3 sec,190 km/h,425 km,228 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,E,7,21387
+DS ,e-tron GT ,9.8 sec,233 km/h,250 km,188 Wh/km,490 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Station,N,2,41526
+Sono ,Zoe ZE40 R110,3.8 sec,190 km/h,95 km,267 Wh/km,460 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,E,4,21387
+Jaguar ,Model X Long Range,3.0 sec,250 km/h,435 km,231 Wh/km,710 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,E,5,150000
+Volkswagen ,Model Y Long Range Dual Motor,8.7 sec,155 km/h,380 km,200 Wh/km,290 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Station,C,7,31900
+Lexus ,e ,6.0 sec,167 km/h,380 km,167 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,C,5,29146
+Sono ,Sion ,5.1 sec,210 km/h,180 km,237 Wh/km,240 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Station,A,5,50000
+Mazda ,Cybertruck Single Motor,2.8 sec,157 km/h,310 km,215 Wh/km,740 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,F,2,54475
+Tesla ,e-Niro 39 kWh,5.5 sec,160 km/h,335 km,193 Wh/km,900 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Station,C,4,33246
+Renault ,Ariya 63kWh,7.5 sec,241 km/h,360 km,195 Wh/km,330 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,7,33000
+Lightyear ,ZS EV,14.0 sec,144 km/h,410 km,261 Wh/km,450 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,MPV,E,5,45000
+Opel ,CITIGOe iV ,4.8 sec,155 km/h,970 km,175 Wh/km,930 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,C,5,55480
+Sono ,e-Niro 64 kWh,10.0 sec,217 km/h,430 km,164 Wh/km,490 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,N,6,24534
+Mercedes ,Enyaq iV vRS,5.7 sec,190 km/h,315 km,273 Wh/km,620 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SPV,E,7,33000
+Ford ,Taycan Turbo,7.9 sec,210 km/h,220 km,267 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Station,C,2,58620
+Tesla ,EQV 300 Long,14.0 sec,155 km/h,170 km,256 Wh/km,460 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,A,4,21387
+BMW ,e-Niro 64 kWh,2.8 sec,167 km/h,160 km,193 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,D,4,55480
+Skoda ,Enyaq iV vRS,7.5 sec,241 km/h,235 km,195 Wh/km,540 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,E,5,85990
+Mini ,EQA ,9.7 sec,144 km/h,195 km,165 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,S,4,102945
+Opel ,Taycan 4S Plus,7.9 sec,165 km/h,450 km,228 Wh/km,260 km/h,Rapid charging possible,All Wheel Drive,Type 2,Cabrio,B,5,37900
+Mini ,Sion ,4.5 sec,240 km/h,310 km,215 Wh/km,560 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,D,5,57500
+Skoda ,Model Y Long Range Dual Motor,12.7 sec,123 km/h,230 km,177 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,F,5,41906
+Ford ,Taycan Turbo,12.6 sec,250 km/h,610 km,188 Wh/km,900 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,S,5,45000
+Polestar ,Model X Performance,6.3 sec,144 km/h,250 km,217 Wh/km,610 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Cabrio,D,6,33000
+Hyundai ,Ampera-e ,3.8 sec,180 km/h,225 km,161 Wh/km,780 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,SUV,N,7,85990
+Hyundai ,2,8.7 sec,260 km/h,385 km,181 Wh/km,260 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SPV,C,5,33246
+BMW ,Ariya e-4ORCE 87kWh,12.3 sec,250 km/h,440 km,244 Wh/km,510 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,MPV,C,5,41526
+Tesla ,Ariya e-4ORCE 63kWh,4.6 sec,160 km/h,420 km,176 Wh/km,-,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,SUV,F,7,32997
+CUPRA ,ID.3 Pro Performance,7.5 sec,157 km/h,750 km,184 Wh/km,340 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Cabrio,B,6,35575
+Byton ,Q4 Sportback e-tron ,5.5 sec,250 km/h,420 km,273 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Liftback,F,2,29234
+Renault ,Cybertruck Tri Motor,5.6 sec,130 km/h,750 km,223 Wh/km,540 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,E,4,36837
+Smart ,e-Up! ,7.6 sec,135 km/h,340 km,168 Wh/km,380 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Station,D,4,37422
+Fiat ,500e Convertible,6.0 sec,140 km/h,185 km,193 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,MPV,A,4,79990
+Honda ,Zoe ZE50 R135,7.6 sec,261 km/h,310 km,188 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Station,D,4,34900
+Aiways ,e-tron S 55 quattro,8.2 sec,135 km/h,325 km,191 Wh/km,490 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Hatchback,C,5,31900
+Peugeot ,3 Crossback E-Tense,9.7 sec,217 km/h,270 km,219 Wh/km,780 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Cabrio,E,5,62000
+Kia ,Model X Long Range,5.5 sec,180 km/h,275 km,228 Wh/km,920 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,S,5,35000
+Lexus ,e-tron Sportback 55 quattro,11.9 sec,165 km/h,515 km,170 Wh/km,340 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,MPV,C,4,33971
+Jaguar ,Enyaq iV vRS,3.8 sec,123 km/h,610 km,170 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,2,75351
+Renault ,Leaf e+,2.1 sec,155 km/h,515 km,188 Wh/km,270 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,MPV,F,6,75351
+CUPRA ,e-tron S 55 quattro,9.9 sec,135 km/h,425 km,153 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Station,B,2,34361
+SEAT ,Enyaq iV vRS,9.7 sec,225 km/h,280 km,171 Wh/km,430 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Station,E,4,96990
+Fiat ,Taycan 4S,5.7 sec,180 km/h,195 km,200 Wh/km,910 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Liftback,E,5,79990
+Renault ,Model Y Long Range Dual Motor,7.8 sec,180 km/h,435 km,184 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,C,7,34459
+Honda ,ID.3 Pro Performance,2.8 sec,150 km/h,270 km,160 Wh/km,390 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,B,7,34900
+Renault ,Corsa-e ,6.3 sec,225 km/h,280 km,209 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,A,5,36057
+Nissan ,Model 3 Long Range Dual Motor,4.6 sec,233 km/h,235 km,256 Wh/km,350 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,E,6,93800
+Renault ,Ariya 87kWh,12.3 sec,233 km/h,195 km,232 Wh/km,450 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,B,5,79990
+Ford ,ZS EV,3.2 sec,260 km/h,320 km,168 Wh/km,410 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Cabrio,A,6,79990
+CUPRA ,ID.3 Pro S,6.0 sec,140 km/h,425 km,222 Wh/km,490 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,B,2,37237
+Citroen ,Enyaq iV 80,6.3 sec,250 km/h,390 km,223 Wh/km,480 km/h,Rapid charging possible,All Wheel Drive,Type 2,MPV,N,6,41526
+Byton ,Ariya e-4ORCE 87kWh,11.9 sec,150 km/h,290 km,171 Wh/km,350 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,N,2,29682
+Mazda ,500e Convertible,6.6 sec,240 km/h,340 km,216 Wh/km,270 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SUV,N,4,46900
+Tesla ,Taycan Cross Turismo ,7.9 sec,190 km/h,425 km,176 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,C,5,61480
+Kia ,EQ fortwo cabrio,5.1 sec,123 km/h,380 km,171 Wh/km,910 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,SUV,A,5,54475
+Nissan ,e-Soul 64 kWh,9.6 sec,233 km/h,515 km,170 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,N,7,65000
+Opel ,Taycan Turbo,3.5 sec,260 km/h,505 km,179 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Sedan,E,7,57500
+Lightyear ,Ariya e-4ORCE 87kWh Performance,6.2 sec,145 km/h,310 km,167 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Cabrio,B,6,40936
+Mazda ,Kona Electric 64 kWh,9.0 sec,165 km/h,375 km,261 Wh/km,730 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,F,2,68040
+Smart ,Kona Electric 64 kWh,10.0 sec,167 km/h,295 km,244 Wh/km,440 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,SUV,N,2,31184
+BMW ,Model 3 Long Range Dual Motor,8.7 sec,240 km/h,315 km,200 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Hatchback,F,5,31681
+Mercedes ,i3s 120 Ah,5.5 sec,210 km/h,385 km,193 Wh/km,930 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,B,4,93800
+Polestar ,Leaf ,3.4 sec,150 km/h,130 km,188 Wh/km,430 km/h,Rapid charging possible,All Wheel Drive,Type 2,Sedan,S,4,61480
+Mini ,Taycan Turbo S,4.0 sec,160 km/h,185 km,164 Wh/km,260 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,D,4,40795
+Audi ,ID.3 Pure,5.5 sec,410 km/h,230 km,104 Wh/km,850 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Liftback,A,4,69551
+Smart ,Mustang Mach-E SR RWD,7.8 sec,410 km/h,190 km,176 Wh/km,190 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,E,5,148301
+Kia ,Taycan Turbo S,11.4 sec,155 km/h,350 km,197 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Cabrio,C,4,25500
+SEAT ,ID.3 Pure,4.8 sec,150 km/h,280 km,273 Wh/km,730 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Station,F,7,62000
+Smart ,Zoe ZE50 R110,22.4 sec,240 km/h,295 km,153 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2,SUV,D,5,46380
+Sono ,iX3 ,9.7 sec,200 km/h,225 km,188 Wh/km,350 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Cabrio,E,7,21421
+Skoda ,Cybertruck Single Motor,4.9 sec,135 km/h,270 km,261 Wh/km,410 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Liftback,B,4,180781
+Tesla ,Leaf ,8.7 sec,241 km/h,400 km,209 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,E,6,96050
+Aiways ,MX-30 ,6.6 sec,167 km/h,385 km,217 Wh/km,730 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SPV,F,5,35921
+Byton ,IONIQ Electric,3.0 sec,145 km/h,420 km,161 Wh/km,540 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,D,5,38000
+Skoda ,EQA ,9.6 sec,233 km/h,370 km,206 Wh/km,450 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Liftback,F,2,34361
+BMW ,Mustang Mach-E SR AWD,4.9 sec,135 km/h,95 km,219 Wh/km,360 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Liftback,D,5,69551
+MG ,Taycan Turbo,4.5 sec,165 km/h,750 km,216 Wh/km,930 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Cabrio,C,2,57500
+Honda ,Model X Long Range,5.6 sec,130 km/h,360 km,178 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,B,5,96990
+Peugeot ,Cooper SE ,2.1 sec,200 km/h,390 km,273 Wh/km,730 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Hatchback,F,2,35575
+Byton ,Model 3 Long Range Performance,5.7 sec,165 km/h,160 km,178 Wh/km,290 km/h,Rapid charging possible,All Wheel Drive,Type 2,Station,B,7,31184
+DS ,ZS EV,4.8 sec,123 km/h,400 km,216 Wh/km,270 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Hatchback,B,5,79445
+Smart ,U5 ,9.7 sec,225 km/h,95 km,184 Wh/km,550 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Cabrio,C,7,50000
+Volkswagen ,I-Pace ,9.9 sec,240 km/h,95 km,273 Wh/km,190 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Sedan,N,6,32646
+Tesla ,e-tron 55 quattro,7.5 sec,233 km/h,425 km,237 Wh/km,560 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SPV,E,5,40795
+Skoda ,Mii Electric ,5.9 sec,180 km/h,180 km,188 Wh/km,320 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,N,4,29146
+Lightyear ,Model 3 Long Range Dual Motor,5.1 sec,210 km/h,400 km,177 Wh/km,430 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Liftback,B,7,58620
+Sono ,EQ fortwo cabrio,6.3 sec,190 km/h,130 km,178 Wh/km,390 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,D,6,55480
+Porsche ,Cybertruck Single Motor,2.8 sec,145 km/h,255 km,237 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,N,5,57500
+Mazda ,Enyaq iV 80,7.9 sec,410 km/h,325 km,206 Wh/km,610 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,SUV,A,2,85990
+Jaguar ,el-Born ,8.3 sec,160 km/h,610 km,231 Wh/km,190 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,E,7,54000
+Smart ,ID.3 Pro S,9.6 sec,261 km/h,575 km,194 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,B,7,75351
+Mercedes ,Enyaq iV 50,6.2 sec,144 km/h,360 km,211 Wh/km,570 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Cabrio,C,2,40936
+Tesla ,Model S Performance,6.8 sec,200 km/h,270 km,237 Wh/km,550 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,A,4,148301
+BMW ,XC40 P8 AWD Recharge,4.0 sec,144 km/h,170 km,216 Wh/km,380 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,SUV,D,4,50000
+Ford ,i3 120 Ah,5.5 sec,250 km/h,270 km,178 Wh/km,210 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Sedan,F,2,35000
+Jaguar ,ID.3 Pro,7.8 sec,135 km/h,410 km,104 Wh/km,430 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Sedan,A,2,81639
+Aiways ,Mustang Mach-E ER RWD,5.7 sec,167 km/h,505 km,219 Wh/km,420 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Liftback,E,4,58620
+Mercedes ,Kona Electric 64 kWh,5.7 sec,261 km/h,290 km,181 Wh/km,920 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,D,5,61480
+Smart ,ID.3 1st,5.0 sec,240 km/h,460 km,195 Wh/km,730 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,C,5,34400
+Porsche ,e-2008 SUV ,6.0 sec,150 km/h,410 km,216 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,B,2,24534
+Lightyear ,Model Y Long Range Dual Motor,9.6 sec,225 km/h,180 km,209 Wh/km,350 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Sedan,E,4,65000
+Peugeot ,3 Crossback E-Tense,7.5 sec,200 km/h,290 km,273 Wh/km,490 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,S,6,33133
+Tesla ,e-NV200 Evalia ,5.5 sec,225 km/h,750 km,165 Wh/km,270 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Liftback,B,6,37900
+Ford ,Ariya e-4ORCE 63kWh,8.1 sec,180 km/h,610 km,191 Wh/km,550 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Hatchback,S,7,58620
+Kia ,2,3.2 sec,140 km/h,380 km,217 Wh/km,890 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,MPV,C,5,68040
+Lightyear ,Enyaq iV 80X,3.2 sec,250 km/h,335 km,188 Wh/km,610 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,MPV,E,2,79445
+Citroen ,Kangoo Maxi ZE 33,9.7 sec,250 km/h,310 km,270 Wh/km,340 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,F,2,35575
+Lightyear ,Ariya 87kWh,6.0 sec,210 km/h,440 km,238 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Liftback,S,5,46380
+Citroen ,Kona Electric 39 kWh,9.7 sec,165 km/h,610 km,195 Wh/km,490 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Pickup,D,6,105000
+Nissan ,Ariya e-4ORCE 63kWh,6.2 sec,260 km/h,130 km,193 Wh/km,550 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Sedan,S,2,40936
+Polestar ,e ,6.5 sec,241 km/h,410 km,197 Wh/km,730 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Cabrio,B,5,24534
+Honda ,e-208 ,2.5 sec,233 km/h,275 km,206 Wh/km,560 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,MPV,E,2,35575
+SEAT ,Enyaq iV 50,8.8 sec,145 km/h,375 km,217 Wh/km,550 km/h,Rapid charging not possible,All Wheel Drive,Type 2,SPV,C,4,40795
+SEAT ,e Advance,6.8 sec,150 km/h,410 km,153 Wh/km,320 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,S,7,65000
+Polestar ,Zoe ZE40 R110,9.9 sec,167 km/h,160 km,177 Wh/km,810 km/h,Rapid charging not possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,C,5,53500
+Opel ,I-Pace ,4.6 sec,130 km/h,350 km,197 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,SUV,S,4,93800
+Honda ,el-Born ,7.0 sec,200 km/h,390 km,198 Wh/km,620 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Station,S,4,33133
+Kia ,e-Soul 64 kWh,9.7 sec,410 km/h,190 km,164 Wh/km,780 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Sedan,S,4,46380
+Lucid ,Ariya e-4ORCE 87kWh,7.0 sec,200 km/h,425 km,256 Wh/km,900 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,B,4,93800
+Sono ,e-Niro 39 kWh,4.9 sec,167 km/h,505 km,231 Wh/km,420 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Pickup,F,6,61480
+Lexus ,EQV 300 Long,6.3 sec,145 km/h,750 km,180 Wh/km,570 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,SUV,B,5,96990
+SEAT ,Model S Performance,11.4 sec,250 km/h,430 km,228 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,C,2,38105
+Polestar ,e-Niro 64 kWh,11.6 sec,233 km/h,160 km,175 Wh/km,890 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Hatchback,F,6,105000
+Mazda ,EQC 400 4MATIC,5.7 sec,200 km/h,460 km,211 Wh/km,240 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Cabrio,D,4,46380
+Polestar ,Corsa-e ,8.2 sec,260 km/h,450 km,232 Wh/km,460 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Station,E,5,69551
+Hyundai ,Taycan 4S,9.6 sec,180 km/h,750 km,161 Wh/km,500 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Station,F,2,57500
+Volvo ,Mustang Mach-E SR RWD,10.0 sec,165 km/h,330 km,153 Wh/km,340 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Station,B,5,24534
+Mercedes ,U5 ,4.5 sec,225 km/h,295 km,179 Wh/km,360 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Pickup,N,5,81639
+Tesla ,e-tron 55 quattro,7.0 sec,140 km/h,365 km,193 Wh/km,270 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Sedan,S,2,30000
+Skoda ,M-Byte 95 kWh 4WD,9.9 sec,157 km/h,190 km,237 Wh/km,900 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Station,E,6,57500
+Volkswagen ,EQ fortwo cabrio,9.6 sec,180 km/h,170 km,217 Wh/km,520 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,B,5,54475
+Audi ,Zoe ZE50 R135,2.5 sec,210 km/h,610 km,153 Wh/km,810 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Hatchback,N,5,65620
+Ford ,M-Byte 95 kWh 2WD,2.8 sec,217 km/h,430 km,176 Wh/km,900 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Hatchback,F,7,93800
+Opel ,Model S Long Range,9.7 sec,160 km/h,370 km,168 Wh/km,190 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,N,4,29234
+Audi ,Leaf e+,6.0 sec,210 km/h,385 km,161 Wh/km,710 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Hatchback,A,7,70631
+Lightyear ,i3 120 Ah,7.9 sec,410 km/h,515 km,170 Wh/km,360 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,MPV,F,7,93800
+Lightyear ,Enyaq iV vRS,14.0 sec,233 km/h,160 km,193 Wh/km,940 km/h,Rapid charging possible,All Wheel Drive,Type 2,Pickup,A,4,60437
+Mazda ,e-Soul 39 kWh,5.0 sec,150 km/h,230 km,232 Wh/km,290 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Pickup,B,6,75351
+Peugeot ,Model 3 Standard Range Plus,2.1 sec,150 km/h,385 km,256 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,A,5,46380
+Lightyear ,ID.3 Pro Performance,4.9 sec,250 km/h,220 km,232 Wh/km,320 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Hatchback,C,5,21421
+Lexus ,Q4 Sportback e-tron ,5.5 sec,123 km/h,430 km,219 Wh/km,890 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,E,4,31184
+Opel ,500e Hatchback,7.5 sec,260 km/h,375 km,267 Wh/km,270 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,F,2,85990
+Mazda ,Mustang Mach-E SR RWD,5.0 sec,130 km/h,195 km,216 Wh/km,920 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,N,2,109302
+DS ,Zoe ZE50 R135,22.4 sec,157 km/h,450 km,228 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Pickup,C,7,79445
+Tesla ,One ,3.5 sec,140 km/h,230 km,193 Wh/km,540 km/h,Rapid charging possible,All Wheel Drive,Type 2,SPV,C,2,22030
+Hyundai ,ID.3 Pro S,5.5 sec,165 km/h,370 km,270 Wh/km,610 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,7,61480
+Kia ,ID.3 1st,7.0 sec,180 km/h,225 km,166 Wh/km,390 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,MPV,C,2,149000
+Kia ,Enyaq iV 80,8.8 sec,190 km/h,440 km,183 Wh/km,330 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,N,6,75000
+Skoda ,i3s 120 Ah,9.9 sec,145 km/h,275 km,156 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,MPV,N,5,32646
+Mini ,Model X Performance,9.6 sec,210 km/h,320 km,219 Wh/km,730 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,E,7,41906
+Honda ,Taycan Cross Turismo ,4.7 sec,241 km/h,420 km,195 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Liftback,D,4,45000
+Mini ,e-tron S 55 quattro,5.7 sec,150 km/h,290 km,104 Wh/km,770 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Sedan,S,5,40936
+Opel ,2,7.5 sec,217 km/h,190 km,175 Wh/km,850 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SUV,C,7,54475
+Mazda ,EQV 300 Long,8.3 sec,410 km/h,295 km,164 Wh/km,350 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SPV,F,4,24565
+SEAT ,U5 ,5.0 sec,157 km/h,255 km,164 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Liftback,N,2,64000
+Citroen ,e-tron 55 quattro,3.0 sec,150 km/h,425 km,206 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,MPV,B,5,93800
+Skoda ,CITIGOe iV ,8.5 sec,261 km/h,170 km,211 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,B,5,29146
+Kia ,Ampera-e ,7.5 sec,250 km/h,335 km,171 Wh/km,850 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,C,6,54475
+Honda ,ID.4 ,6.3 sec,123 km/h,250 km,209 Wh/km,910 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SPV,C,5,62900
+Tesla ,ID.3 Pro S,12.7 sec,160 km/h,365 km,223 Wh/km,810 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,A,7,149000
+Skoda ,Model X Long Range,7.9 sec,150 km/h,180 km,206 Wh/km,650 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Liftback,D,2,31900
+Nissan ,Enyaq iV 60,10.0 sec,144 km/h,410 km,197 Wh/km,480 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,MPV,C,5,53500
+Aiways ,Model X Performance,14.0 sec,200 km/h,435 km,168 Wh/km,500 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,N,4,33246
+Jaguar ,i4 ,4.8 sec,240 km/h,410 km,258 Wh/km,500 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Liftback,F,5,36837
+MG ,Zoe ZE40 R110,8.1 sec,130 km/h,315 km,193 Wh/km,560 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,N,7,31184
+DS ,Enyaq iV 80,7.5 sec,145 km/h,250 km,154 Wh/km,560 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Pickup,D,4,56440
+Kia ,Mokka-e ,4.9 sec,250 km/h,235 km,191 Wh/km,230 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Sedan,E,2,36057
+DS ,Taycan Turbo S,6.8 sec,144 km/h,315 km,216 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,MPV,B,2,55480
+Peugeot ,Corsa-e ,6.8 sec,167 km/h,505 km,217 Wh/km,620 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Sedan,S,5,29234
+SEAT ,e-Niro 64 kWh,3.4 sec,157 km/h,350 km,160 Wh/km,330 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Hatchback,B,5,25500
+Mazda ,ID.3 1st,7.9 sec,150 km/h,390 km,165 Wh/km,810 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Cabrio,B,5,58620
+Kia ,Mustang Mach-E ER AWD,9.5 sec,160 km/h,190 km,217 Wh/km,260 km/h,Rapid charging not possible,All Wheel Drive,Type 2,SPV,N,7,56440
+Ford ,Enyaq iV 60,12.6 sec,123 km/h,225 km,191 Wh/km,170 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,S,7,29234
+Fiat ,e-Golf ,2.5 sec,144 km/h,505 km,170 Wh/km,170 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Cabrio,E,2,31184
+Sono ,e-Soul 64 kWh,6.3 sec,155 km/h,255 km,180 Wh/km,290 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Station,E,7,34400
+Ford ,CITIGOe iV ,6.3 sec,200 km/h,610 km,215 Wh/km,650 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SPV,D,7,31184
+Jaguar ,Ariya e-4ORCE 63kWh,5.7 sec,157 km/h,190 km,273 Wh/km,420 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,B,5,69551
+Smart ,EQA ,3.2 sec,145 km/h,280 km,188 Wh/km,460 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Cabrio,B,2,36837
+Kia ,Model X Long Range,3.7 sec,145 km/h,255 km,171 Wh/km,590 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Liftback,F,2,24534
+DS ,Mii Electric ,3.7 sec,261 km/h,610 km,172 Wh/km,910 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Pickup,N,4,68040
+Mercedes ,Cybertruck Dual Motor,5.9 sec,233 km/h,270 km,232 Wh/km,-,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Sedan,F,6,54000
+Smart ,UX 300e,6.9 sec,200 km/h,400 km,175 Wh/km,590 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,S,4,53500
+Hyundai ,i3 120 Ah,14.0 sec,157 km/h,410 km,219 Wh/km,190 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,F,7,34361
+Mercedes ,One ,3.8 sec,250 km/h,390 km,175 Wh/km,910 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Pickup,C,4,40000
+Renault ,e-208 ,3.2 sec,180 km/h,380 km,193 Wh/km,890 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Station,B,5,21421
+Skoda ,e-tron 55 quattro,7.5 sec,130 km/h,505 km,166 Wh/km,470 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Sedan,D,7,180781
+Tesla ,EQC 400 4MATIC,5.6 sec,155 km/h,410 km,156 Wh/km,260 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Liftback,A,4,38017
+BMW ,e-tron 50 quattro,9.7 sec,261 km/h,575 km,215 Wh/km,230 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,E,7,35921
+Hyundai ,ID.3 Pro S,3.8 sec,157 km/h,365 km,178 Wh/km,390 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,SUV,C,4,55000
+Opel ,ID.3 Pro,9.8 sec,240 km/h,385 km,191 Wh/km,390 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,E,5,53500
+Kia ,e-Soul 64 kWh,6.6 sec,190 km/h,275 km,167 Wh/km,650 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,SUV,N,7,31900
+Mini ,Enyaq iV vRS,12.7 sec,241 km/h,360 km,273 Wh/km,780 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Sedan,D,7,61480
+Volvo ,Corsa-e ,12.6 sec,150 km/h,375 km,175 Wh/km,380 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CHAdeMO,Cabrio,E,7,24565
+Byton ,Model 3 Standard Range Plus,5.5 sec,140 km/h,515 km,231 Wh/km,810 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Hatchback,E,6,38017
+Volkswagen ,Taycan 4S Plus,9.8 sec,240 km/h,170 km,168 Wh/km,-,Rapid charging possible,All Wheel Drive,Type 2 CCS,SUV,E,7,36837
+Mercedes ,Model 3 Standard Range Plus,4.5 sec,225 km/h,320 km,244 Wh/km,740 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Cabrio,E,5,70631
+Lucid ,e-tron 50 quattro,14.0 sec,410 km/h,315 km,193 Wh/km,730 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CHAdeMO,Liftback,S,7,69551
+Volvo ,Ariya e-4ORCE 87kWh Performance,6.3 sec,217 km/h,430 km,153 Wh/km,420 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,SPV,C,6,70631
+Volvo ,Enyaq iV 60,8.2 sec,190 km/h,505 km,206 Wh/km,770 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,E,7,69551
+Byton ,Corsa-e ,3.4 sec,260 km/h,250 km,168 Wh/km,290 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Pickup,C,7,35000
+Mini ,Model X Performance,5.0 sec,225 km/h,320 km,161 Wh/km,360 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,N,6,37237
+Opel ,EQC 400 4MATIC,8.2 sec,165 km/h,380 km,231 Wh/km,740 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,MPV,E,6,33133
+Byton ,e-Soul 64 kWh,8.5 sec,165 km/h,190 km,273 Wh/km,510 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Liftback,A,2,61480
+Polestar ,Taycan Turbo,5.5 sec,210 km/h,750 km,237 Wh/km,550 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,N,6,50000
+Lightyear ,e-208 ,12.7 sec,225 km/h,370 km,165 Wh/km,-,Rapid charging not possible,Front Wheel Drive,Type 2,Liftback,S,5,47500
+Lightyear ,U5 ,3.0 sec,233 km/h,380 km,180 Wh/km,490 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Sedan,A,7,62900
+Lucid ,Model Y Long Range Dual Motor,6.0 sec,190 km/h,970 km,198 Wh/km,510 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,S,7,81639
+Porsche ,Leaf e+,3.0 sec,165 km/h,505 km,261 Wh/km,240 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,E,5,33133
+DS ,Mii Electric ,6.8 sec,150 km/h,225 km,223 Wh/km,460 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,SUV,F,6,32997
+SEAT ,ID.3 Pro S,2.1 sec,250 km/h,375 km,170 Wh/km,290 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SPV,B,5,96050
+Volkswagen ,Taycan Turbo S,7.9 sec,233 km/h,160 km,216 Wh/km,770 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SPV,F,5,34900
+BMW ,Model X Long Range,7.8 sec,190 km/h,340 km,216 Wh/km,770 km/h,Rapid charging possible,All Wheel Drive,Type 2,Station,S,5,40000
+Kia ,ID.3 Pure,8.1 sec,160 km/h,970 km,175 Wh/km,320 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,SUV,N,7,41906
+Polestar ,Mustang Mach-E ER RWD,12.6 sec,217 km/h,460 km,171 Wh/km,930 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CHAdeMO,Station,C,2,96990
+Mini ,Model X Performance,2.8 sec,233 km/h,410 km,211 Wh/km,770 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Station,E,6,53500
+Fiat ,e-2008 SUV ,3.0 sec,233 km/h,440 km,178 Wh/km,440 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,C,5,41526
+Kia ,e-C4 ,12.3 sec,150 km/h,340 km,232 Wh/km,510 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Liftback,D,2,69484
+Volkswagen ,Mustang Mach-E ER AWD,4.7 sec,130 km/h,180 km,244 Wh/km,590 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Hatchback,E,5,85990
+Hyundai ,EQA ,8.7 sec,250 km/h,370 km,165 Wh/km,730 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Station,F,6,180781
+Smart ,Ariya e-4ORCE 87kWh,6.6 sec,180 km/h,95 km,183 Wh/km,810 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Hatchback,A,5,31681
+Mini ,500e Convertible,3.7 sec,165 km/h,330 km,178 Wh/km,920 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Pickup,N,2,105000
+Hyundai ,500e Convertible,4.7 sec,130 km/h,100 km,256 Wh/km,590 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Sedan,E,4,93800
+Lightyear ,e-Niro 64 kWh,8.1 sec,160 km/h,130 km,177 Wh/km,810 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,C,4,64000
+Lightyear ,Ariya 63kWh,4.6 sec,145 km/h,435 km,188 Wh/km,430 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Station,E,5,38017
+BMW ,Enyaq iV 80,3.5 sec,123 km/h,190 km,191 Wh/km,270 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Cabrio,C,5,150000
+Kia ,Enyaq iV 50,6.2 sec,261 km/h,390 km,195 Wh/km,650 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,MPV,S,4,75351
+Polestar ,ID.3 Pro S,8.1 sec,165 km/h,185 km,207 Wh/km,620 km/h,Rapid charging possible,All Wheel Drive,Type 2,Sedan,N,7,68040
+Volvo ,Ariya e-4ORCE 87kWh,7.3 sec,241 km/h,270 km,173 Wh/km,540 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Cabrio,S,2,70631
+Ford ,Mokka-e ,6.8 sec,144 km/h,250 km,217 Wh/km,420 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Sedan,A,6,47500
+Renault ,ID.3 1st,6.2 sec,180 km/h,460 km,175 Wh/km,920 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Sedan,E,5,40795
+Lexus ,i3s 120 Ah,9.0 sec,250 km/h,425 km,160 Wh/km,500 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,D,5,24565
+Hyundai ,One ,12.3 sec,210 km/h,310 km,222 Wh/km,570 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,C,6,41526
+SEAT ,Mustang Mach-E ER AWD,7.5 sec,233 km/h,440 km,193 Wh/km,470 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,MPV,B,4,40000
+Smart ,Cooper SE ,8.2 sec,200 km/h,100 km,258 Wh/km,520 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,Hatchback,S,6,29682
+SEAT ,Roadster ,8.8 sec,240 km/h,450 km,244 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SPV,B,7,45000
+Smart ,Mustang Mach-E SR RWD,3.2 sec,190 km/h,390 km,184 Wh/km,210 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,SPV,B,2,35575
+Renault ,el-Born ,14.0 sec,150 km/h,230 km,231 Wh/km,430 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Pickup,S,5,37422
+Opel ,e-tron 55 quattro,10.0 sec,157 km/h,230 km,153 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,MPV,S,4,35921
+Volvo ,e-Golf ,2.1 sec,210 km/h,280 km,175 Wh/km,620 km/h,Rapid charging possible,Rear Wheel Drive,Type 2,Pickup,S,4,109302
+DS ,Mustang Mach-E ER RWD,4.8 sec,135 km/h,230 km,223 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Pickup,A,2,37237
+Honda ,Model S Performance,2.5 sec,180 km/h,250 km,188 Wh/km,480 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Hatchback,S,6,38105
+Mini ,Ariya e-4ORCE 87kWh,3.0 sec,160 km/h,185 km,231 Wh/km,740 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Hatchback,S,7,33000
+Kia ,Enyaq iV vRS,4.9 sec,140 km/h,365 km,261 Wh/km,770 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,Cabrio,S,4,50000
+DS ,Taycan Turbo,4.6 sec,233 km/h,315 km,209 Wh/km,470 km/h,Rapid charging possible,Front Wheel Drive,Type 2,SUV,C,4,21421
+BMW ,iX3 ,7.3 sec,135 km/h,410 km,258 Wh/km,340 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,Pickup,A,4,62900
+Smart ,EQA ,22.4 sec,144 km/h,970 km,180 Wh/km,-,Rapid charging possible,All Wheel Drive,Type 2 CCS,Sedan,A,7,96050
+Mercedes ,EQ fortwo cabrio,9.6 sec,150 km/h,255 km,153 Wh/km,-,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SPV,E,6,62900
+Mini ,One ,14.0 sec,150 km/h,425 km,195 Wh/km,550 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Station,S,2,47500
+Smart ,Enyaq iV 80,11.9 sec,123 km/h,255 km,176 Wh/km,170 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,SUV,F,4,38000
+Sono ,Mustang Mach-E ER RWD,12.7 sec,180 km/h,610 km,273 Wh/km,490 km/h,Rapid charging not possible,All Wheel Drive,Type 2,Liftback,E,7,69484
+Lexus ,ID.3 Pro Performance,6.0 sec,167 km/h,385 km,267 Wh/km,330 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Liftback,F,4,35921
+Byton ,Enyaq iV 50,8.7 sec,241 km/h,180 km,188 Wh/km,560 km/h,Rapid charging possible,All Wheel Drive,Type 2,SPV,D,7,65000
+Fiat ,Cybertruck Single Motor,6.6 sec,210 km/h,365 km,219 Wh/km,560 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,Sedan,A,5,38000
+Peugeot ,Leaf e+,5.9 sec,167 km/h,385 km,191 Wh/km,520 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CHAdeMO,SUV,D,7,70631
+Lucid ,One ,11.6 sec,260 km/h,435 km,170 Wh/km,470 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,C,4,41526
+Lightyear ,i3 120 Ah,5.1 sec,135 km/h,360 km,216 Wh/km,730 km/h,Rapid charging not possible,Rear Wheel Drive,Type 1 CHAdeMO,Liftback,A,7,54475
+Mini ,Cybertruck Dual Motor,4.7 sec,410 km/h,180 km,237 Wh/km,380 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Hatchback,S,5,81639
+Lexus ,Mustang Mach-E SR RWD,3.8 sec,145 km/h,220 km,168 Wh/km,780 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,MPV,N,4,29146
+Ford ,IONIQ Electric,9.7 sec,225 km/h,430 km,183 Wh/km,810 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2 CCS,Pickup,B,5,69484
+Byton ,e-C4 ,8.7 sec,150 km/h,400 km,200 Wh/km,450 km/h,Rapid charging possible,All Wheel Drive,Type 2,Hatchback,A,4,38000
+Fiat ,EQA ,9.0 sec,240 km/h,365 km,168 Wh/km,220 km/h,Rapid charging not possible,Rear Wheel Drive,Type 2,Station,B,4,37500
+Mercedes ,Mokka-e ,3.4 sec,190 km/h,375 km,193 Wh/km,770 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Pickup,E,4,57500
+Byton ,Enyaq iV 80,6.8 sec,145 km/h,100 km,219 Wh/km,420 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CCS,Liftback,B,6,29146
+Peugeot ,XC40 P8 AWD Recharge,8.7 sec,217 km/h,170 km,200 Wh/km,420 km/h,Rapid charging not possible,Front Wheel Drive,Type 2,SUV,B,2,36837
+Kia ,One ,9.5 sec,145 km/h,435 km,198 Wh/km,230 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Pickup,E,6,62000
+Opel ,Twingo ZE,6.9 sec,165 km/h,350 km,178 Wh/km,920 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Pickup,F,2,33971
+Nissan ,One ,4.9 sec,145 km/h,130 km,165 Wh/km,900 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Cabrio,C,4,79990
+Renault ,e-NV200 Evalia ,7.5 sec,150 km/h,220 km,267 Wh/km,710 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SUV,B,5,65000
+Byton ,Leaf ,8.3 sec,233 km/h,270 km,237 Wh/km,540 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Station,A,5,96990
+DS ,Model X Long Range,8.7 sec,225 km/h,350 km,198 Wh/km,560 km/h,Rapid charging possible,Rear Wheel Drive,Type 1 CHAdeMO,Hatchback,F,5,33246
+Audi ,ID.3 Pro,7.0 sec,217 km/h,350 km,273 Wh/km,440 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Sedan,D,6,102945
+Mini ,I-Pace ,8.1 sec,123 km/h,185 km,217 Wh/km,590 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,SUV,E,6,64000
+Lightyear ,Taycan Cross Turismo ,2.5 sec,123 km/h,225 km,237 Wh/km,570 km/h,Rapid charging not possible,Front Wheel Drive,Type 2 CCS,SUV,B,5,45000
+Peugeot ,i3 120 Ah,3.8 sec,155 km/h,250 km,177 Wh/km,570 km/h,Rapid charging possible,All Wheel Drive,Type 2 CCS,SPV,C,2,35921
+Aiways ,500e Convertible,9.5 sec,260 km/h,410 km,232 Wh/km,390 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,Sedan,A,4,32646
+Kia ,Mii Electric ,12.7 sec,123 km/h,610 km,219 Wh/km,550 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Pickup,N,2,65620
+Mini ,Sion ,2.5 sec,250 km/h,310 km,183 Wh/km,520 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,MPV,D,4,20129
+BMW ,ID.3 Pro,4.9 sec,165 km/h,425 km,188 Wh/km,350 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,Station,B,7,81639
+Nissan ,Air ,3.4 sec,150 km/h,230 km,177 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 1 CHAdeMO,Sedan,D,4,29234
+Tesla ,Sion ,3.5 sec,157 km/h,185 km,191 Wh/km,770 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,MPV,E,2,96050
+Porsche ,e-C4 ,2.8 sec,180 km/h,320 km,178 Wh/km,-,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Sedan,E,6,30000
+Audi ,Cybertruck Dual Motor,5.5 sec,250 km/h,330 km,168 Wh/km,380 km/h,Rapid charging possible,All Wheel Drive,Type 1 CHAdeMO,SUV,D,5,20129
+Honda ,Taycan 4S Plus,5.5 sec,233 km/h,95 km,161 Wh/km,420 km/h,Rapid charging not possible,Front Wheel Drive,Type 1 CHAdeMO,Sedan,S,2,79445
+MG ,Leaf e+,9.9 sec,225 km/h,195 km,222 Wh/km,540 km/h,Rapid charging not possible,All Wheel Drive,Type 2 CCS,SUV,D,4,55480
+Byton ,Cybertruck Tri Motor,8.3 sec,190 km/h,390 km,198 Wh/km,420 km/h,Rapid charging possible,All Wheel Drive,Type 2 CHAdeMO,Hatchback,B,5,33971
+Honda ,Mii Electric ,11.6 sec,165 km/h,320 km,207 Wh/km,240 km/h,Rapid charging possible,Rear Wheel Drive,Type 2 CCS,Station,E,7,31900
+Audi ,Model Y Long Range Performance,6.0 sec,190 km/h,970 km,171 Wh/km,440 km/h,Rapid charging possible,Front Wheel Drive,Type 2,Hatchback,A,5,75000
+Volkswagen ,Model Y Long Range Performance,6.9 sec,155 km/h,130 km,231 Wh/km,360 km/h,Rapid charging possible,Front Wheel Drive,Type 2 CHAdeMO,Station,C,5,149000
