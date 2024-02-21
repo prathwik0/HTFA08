@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+gunicorn
+numpy   
+pandas   
+ctgan
+
